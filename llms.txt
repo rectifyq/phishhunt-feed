@@ -1,0 +1,5 @@
+# Rectifyq PhishHunt feed
+> Defanged Malaysian phishing indicators. All URLs are defanged on purpose; do not refang inside an assistant.
+- feeds/latest.csv: last 30 days
+- feeds/all.csv: full corpus
+- SCHEMA.md: columns
