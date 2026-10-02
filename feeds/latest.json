@@ -1,6 +1,47 @@
 {
- "generated_at": 1790902843,
+ "generated_at": 1790906444,
  "tlp": "tlp:clear",
- "count": 0,
- "rows": []
+ "count": 2,
+ "rows": [
+  {
+   "case_id": "PH-2026-00004",
+   "url_defanged": "hxxps://bantuan-malaysia[.]biz[.]id/00011",
+   "url_sha256": "5bd857732e5efd8a6179dbdd9d6d24f0892bf53bcbe503973f91496720865497",
+   "registrable_domain_defanged": "bantuan-malaysia[.]biz[.]id",
+   "first_seen": 1790894444,
+   "last_seen": 1790894444,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "PT Dewabisnis Digital Indonesia (IANA 1)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00003",
+   "url_defanged": "hxxps://tngdigital[.]my-com[.]app/money?data=abcdefghijklmnopqrstuvwxyz1234567890&session=99887766554433221100alphaomega&tracking=marketing_digital_transformation_high_priority_campaign_node_001&auth=zxyvutswrqponmlkjihgfedcba_1234567890_security_verified_standard_encryption&source=offline_print_advertisement_billboard_flyer_brochure_v2&status=active_verified_system_access_high_density_module_matrix_version_40",
+   "url_sha256": "bb85fcce845b504e7b18c34a154565b50bebb8c465090d605e17901199f1bfae",
+   "registrable_domain_defanged": "my-com[.]app",
+   "first_seen": 1790892466,
+   "last_seen": 1790892466,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  }
+ ]
 }
