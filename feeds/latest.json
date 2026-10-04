@@ -1,5 +1,5 @@
 {
- "generated_at": 1791136880,
+ "generated_at": 1791140482,
  "tlp": "tlp:clear",
  "count": 1,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "my-com[.]app",
    "first_seen": 1790892466,
    "last_seen": 1790892466,
-   "state": "enriched",
+   "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "qr",
@@ -18,8 +18,8 @@
    "registrar": "",
    "asn": "AS55688",
    "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1791136912,
+   "hours_to_takedown": 67.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   }
