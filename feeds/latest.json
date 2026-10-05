@@ -1,5 +1,5 @@
 {
- "generated_at": 1791183652,
+ "generated_at": 1791187249,
  "tlp": "tlp:clear",
  "count": 4,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "registernowtodays[.]com",
    "first_seen": 1791166784,
    "last_seen": 1791166784,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "whatsapp",
