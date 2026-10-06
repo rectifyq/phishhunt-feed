@@ -1,7 +1,7 @@
 {
- "generated_at": 1791280823,
+ "generated_at": 1791284423,
  "tlp": "tlp:clear",
- "count": 6,
+ "count": 7,
  "rows": [
   {
    "case_id": "PH-2026-00012",
@@ -121,6 +121,26 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00001",
+   "url_defanged": "hxxps://bantuan-malaysia[.]biz[.]id/001",
+   "url_sha256": "f35b8cb5ee5e64a3dcef5a35a1b1e3eeeb3bc3d0b6c262060b6542c700db6599",
+   "registrable_domain_defanged": "bantuan-malaysia[.]biz[.]id",
+   "first_seen": 1790865681,
+   "last_seen": 1790865681,
+   "state": "reported",
+   "target_alias": "Sand Government Service",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "PT Dewabisnis Digital Indonesia (IANA 1)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:subsidy",
    "tlp": "tlp:clear"
   }
  ]
