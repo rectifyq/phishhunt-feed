@@ -1,8 +1,28 @@
 {
- "generated_at": 1791248457,
+ "generated_at": 1791252061,
  "tlp": "tlp:clear",
- "count": 4,
+ "count": 5,
  "rows": [
+  {
+   "case_id": "PH-2026-00012",
+   "url_defanged": "hxxps://bantuantngonline[.]blogspot[.]com/?m=1",
+   "url_sha256": "f98d5d856f0b2062c3149982b60a8c25fb7960a0bb8e976337350e8bc905c065",
+   "registrable_domain_defanged": "bantuantngonline[.]blogspot[.]com",
+   "first_seen": 1791188540,
+   "last_seen": 1791188540,
+   "state": "down",
+   "target_alias": "",
+   "target_sector": "",
+   "vector": "whatsapp",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS15169",
+   "country": "US",
+   "taken_down_at": 1791252046,
+   "hours_to_takedown": 17.6,
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00011",
    "url_defanged": "hxxps://apply8[.]registernowtodays[.]com/",
