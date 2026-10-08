@@ -1,8 +1,28 @@
 {
- "generated_at": 1791446420,
+ "generated_at": 1791450020,
  "tlp": "tlp:clear",
- "count": 19,
+ "count": 20,
  "rows": [
+  {
+   "case_id": "PH-2026-00017",
+   "url_defanged": "hxxps://shortnetgo[.]online//JawatanKosong18?utm_source=threads&utm_medium=social&utm_content=link_in_bio&fbclid=ZgZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZBAzNDE5NjI4MzA1MDI1OTE3AEOoxhcBnV0UwqWyXRU1y4j2eBHXx8tEymzreoOXSaZ-NFaBJ3gF4Dz08-MCTwbBNbs_aem_4pcTIn1_zVckjtulDo_24Atent%3Dlink_in_bio%26fbclid%3DZgZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZBAzNDE5NjI4MzA1MDI1OTE3AEOoxhcBnV0UwqWyXRU1y4j2eBHXx8tEymzreoOXSaZ-NFaBJ3gF4Dz08-MCTwbBNbs_aem_4pcTIn1_zVckjtulDo_24A&e=AUDkfplgAt7yZ9oJo7Qy4ZCr7FjU1dGT1Lq74oLMoYHxjyzEvPUCvSjcsv8lvrsC_AVyMnTW4vDpiVcfcp7QRuoGPv0nMHG6WGeD4h8Oo5fyBaFNX5Q4wON2Dg&s=1",
+   "url_sha256": "4d3834eea3b85a5fbebb0925bdebc9b89f04c7ef952ad3ea832df207f671ffde",
+   "registrable_domain_defanged": "shortnetgo[.]online",
+   "first_seen": 1791426836,
+   "last_seen": 1791426836,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "NameCheap, Inc. (IANA 1068)",
+   "asn": "AS138608",
+   "country": "SG",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00016",
    "url_defanged": "hxxps://gurugantimystepjawatan[.]weebly[.]com/",
