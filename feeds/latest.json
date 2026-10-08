@@ -1,7 +1,7 @@
 {
- "generated_at": 1791428420,
+ "generated_at": 1791432020,
  "tlp": "tlp:clear",
- "count": 16,
+ "count": 19,
  "rows": [
   {
    "case_id": "PH-2026-00016",
@@ -61,6 +61,26 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00013",
+   "url_defanged": "hxxps://touch-n-go4[.]dirham[.]click/",
+   "url_sha256": "c70e4f44c7b4bc8c51c2a1333aa799d8602ac1af703b97e89c08b02b3bff0217",
+   "registrable_domain_defanged": "dirham[.]click",
+   "first_seen": 1791278822,
+   "last_seen": 1791278822,
+   "state": "validated",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "NameSilo, LLC (IANA 1479)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "misp:fake-website lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
@@ -161,6 +181,46 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00007",
+   "url_defanged": "hxxps://tinyurl[.]com/3yfbkuu6",
+   "url_sha256": "cec685f28dfdf07da04493cf8265c019d6105f437405b3a0c75f7ad17868726f",
+   "registrable_domain_defanged": "tinyurl[.]com",
+   "first_seen": 1790925490,
+   "last_seen": 1790925490,
+   "state": "validated",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "",
+   "kit_family": "",
+   "registrar": "Tucows Domains Inc. (IANA 69)",
+   "asn": "AS13335",
+   "country": "US",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00006",
+   "url_defanged": "hxxps://shorturl[.]at/StzFI",
+   "url_sha256": "4a10a1f243eb6af99d136bf0ea1e57802897fbc1ef0b5ae9c92dfb25fb8133ab",
+   "registrable_domain_defanged": "shorturl[.]at",
+   "first_seen": 1790923883,
+   "last_seen": 1790923883,
+   "state": "validated",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
