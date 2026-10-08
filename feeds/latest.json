@@ -1,5 +1,5 @@
 {
- "generated_at": 1791421220,
+ "generated_at": 1791424820,
  "tlp": "tlp:clear",
  "count": 16,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "gurugantimystepjawatan[.]weebly[.]com",
    "first_seen": 1791420687,
    "last_seen": 1791420687,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Blue Government Service",
    "target_sector": "gov",
    "vector": "telegram",
