@@ -1,8 +1,28 @@
 {
- "generated_at": 1791417620,
+ "generated_at": 1791421220,
  "tlp": "tlp:clear",
- "count": 15,
+ "count": 16,
  "rows": [
+  {
+   "case_id": "PH-2026-00016",
+   "url_defanged": "hxxps://gurugantimystepjawatan[.]weebly[.]com/",
+   "url_sha256": "8879501bb58701800c1d814f6e02a7ba5345b6c98fc4442df8c14e19e878f411",
+   "registrable_domain_defanged": "gurugantimystepjawatan[.]weebly[.]com",
+   "first_seen": 1791420687,
+   "last_seen": 1791420687,
+   "state": "validated",
+   "target_alias": "Blue Government Service",
+   "target_sector": "gov",
+   "vector": "telegram",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS27647",
+   "country": "US",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "hosting:free-host misp:fake-website",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00015",
    "url_defanged": "hxxps://tng-qr-ewallet-qr31[.]x-vvip[.]my[.]id/",
