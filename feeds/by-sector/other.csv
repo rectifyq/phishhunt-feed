@@ -1,2 +1,2 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
-PH-2026-00012,hxxps://bantuantngonline[.]blogspot[.]com/?m=1,f98d5d856f0b2062c3149982b60a8c25fb7960a0bb8e976337350e8bc905c065,bantuantngonline[.]blogspot[.]com,1791188540,1791188540,reported,,,whatsapp,,,AS15169,US,,,,tlp:clear
+PH-2026-00022,hxxps://register6[.]mohon-sekarang[.]com/,2156f7d298f0ffdbed777e6328fa12f6faa664778740a51e6b4e7b9414527dda,mohon-sekarang[.]com,1791555457,1791555457,validated,,,qr,,CV. Rumahweb Indonesia (IANA 1675),AS13335,,,,,tlp:clear
