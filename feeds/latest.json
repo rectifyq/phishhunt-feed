@@ -1,5 +1,5 @@
 {
- "generated_at": 1791568831,
+ "generated_at": 1791572431,
  "tlp": "tlp:clear",
  "count": 33,
  "rows": [
@@ -130,7 +130,7 @@
    "registrable_domain_defanged": "jkmss-a[.]sbs",
    "first_seen": 1791279262,
    "last_seen": 1791279262,
-   "state": "reported",
+   "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "qr",
@@ -138,8 +138,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1791568876,
+   "hours_to_takedown": 80.4,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
