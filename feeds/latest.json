@@ -1,7 +1,7 @@
 {
- "generated_at": 1791532827,
+ "generated_at": 1791536427,
  "tlp": "tlp:clear",
- "count": 30,
+ "count": 31,
  "rows": [
   {
    "case_id": "PH-2026-00018",
@@ -310,6 +310,26 @@
    "registrable_domain_defanged": "my-com[.]app",
    "first_seen": 1790916218,
    "last_seen": 1791088838,
+   "state": "reported",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "Name.com, Inc. (IANA 625)",
+   "asn": "AS55688",
+   "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00003",
+   "url_defanged": "hxxps://tngdigital[.]my-com[.]app/claim?data=abcdefghijklmnopqrstuvwxyz1234567890&session=99887766554433221100alphaomega&tracking=marketing_digital_transformation_high_priority_campaign_node_001&auth=zxyvutswrqponmlkjihgfedcba_1234567890_security_verified_standard_encryption&source=offline_print_advertisement_billboard_flyer_brochure_v2&status=active_verified_system_access_high_density_module_matrix_version_40",
+   "url_sha256": "c9914ad4e3897847360d54e9b351a76cc28fd416bf0003c31d43db6c0ec26176",
+   "registrable_domain_defanged": "my-com[.]app",
+   "first_seen": 1791533602,
+   "last_seen": 1791533602,
    "state": "reported",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
