@@ -1,7 +1,7 @@
 {
- "generated_at": 1791604812,
+ "generated_at": 1791608411,
  "tlp": "tlp:clear",
- "count": 33,
+ "count": 34,
  "rows": [
   {
    "case_id": "PH-2026-00022",
@@ -18,6 +18,26 @@
    "registrar": "CV. Rumahweb Indonesia (IANA 1675)",
    "asn": "AS13335",
    "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00020",
+   "url_defanged": "hxxps://semaklayak[.]rrxapk[.]my[.]id/",
+   "url_sha256": "46cc4b83135917eafc6dba19c3a7b35a941233ed74dff8522a7d490a5a353e7c",
+   "registrable_domain_defanged": "rrxapk[.]my[.]id",
+   "first_seen": 1791525702,
+   "last_seen": 1791525702,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "",
+   "vector": "telegram",
+   "kit_family": "",
+   "registrar": "PT Registrasi Neva Angkasa (IANA 1)",
+   "asn": "AS141995",
+   "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
