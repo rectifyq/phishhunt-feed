@@ -1,5 +1,5 @@
 {
- "generated_at": 1791680468,
+ "generated_at": 1791684073,
  "tlp": "tlp:clear",
  "count": 43,
  "rows": [
@@ -169,7 +169,7 @@
    "url_sha256": "46cc4b83135917eafc6dba19c3a7b35a941233ed74dff8522a7d490a5a353e7c",
    "registrable_domain_defanged": "rrxapk[.]my[.]id",
    "first_seen": 1791525702,
-   "last_seen": 1791617471,
+   "last_seen": 1791683669,
    "state": "reported",
    "target_alias": "Coral Government Service",
    "target_sector": "gov",
