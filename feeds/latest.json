@@ -1,8 +1,28 @@
 {
- "generated_at": 1791673271,
+ "generated_at": 1791676875,
  "tlp": "tlp:clear",
- "count": 42,
+ "count": 43,
  "rows": [
+  {
+   "case_id": "PH-2026-00029",
+   "url_defanged": "hxxps://kongsi[.]apptng[.]xyz/Rayamacam2.my15",
+   "url_sha256": "6093e6a411a7fdb86825241045ad172158a1f066ca2348319cf6cddef62fe4cf",
+   "registrable_domain_defanged": "apptng[.]xyz",
+   "first_seen": 1791651563,
+   "last_seen": 1791651563,
+   "state": "validated",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00028",
    "url_defanged": "hxxps://help-maxis[.]my[.]id/max",
