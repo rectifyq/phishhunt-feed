@@ -1,5 +1,5 @@
 {
- "generated_at": 1791705639,
+ "generated_at": 1791709239,
  "tlp": "tlp:clear",
  "count": 44,
  "rows": [
@@ -50,7 +50,7 @@
    "registrable_domain_defanged": "app-maxis[.]my[.]id",
    "first_seen": 1791643003,
    "last_seen": 1791643003,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "search",
