@@ -1,5 +1,5 @@
 {
- "generated_at": 1791676875,
+ "generated_at": 1791680468,
  "tlp": "tlp:clear",
  "count": 43,
  "rows": [
@@ -230,7 +230,7 @@
    "registrable_domain_defanged": "shortnetgo[.]online",
    "first_seen": 1791426836,
    "last_seen": 1791426836,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "other",
@@ -238,8 +238,8 @@
    "registrar": "NameCheap, Inc. (IANA 1068)",
    "asn": "AS138608",
    "country": "SG",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1791676945,
+   "hours_to_takedown": 69.5,
    "tags_fixed": "misp:sector-government",
    "tlp": "tlp:clear"
   },
