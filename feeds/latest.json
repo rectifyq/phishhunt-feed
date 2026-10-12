@@ -1,8 +1,28 @@
 {
- "generated_at": 1791777683,
+ "generated_at": 1791781294,
  "tlp": "tlp:clear",
- "count": 46,
+ "count": 47,
  "rows": [
+  {
+   "case_id": "PH-2026-00042",
+   "url_defanged": "hxxps://pubgoshrt[.]online/MohonLaptopPercuma1",
+   "url_sha256": "813a756535856f1899eff3c96e2eddba28672be504857725eb78caa23d54e253",
+   "registrable_domain_defanged": "pubgoshrt[.]online",
+   "first_seen": 1791773929,
+   "last_seen": 1791773929,
+   "state": "validated",
+   "target_alias": "Blue Government Service",
+   "target_sector": "gov",
+   "vector": "telegram",
+   "kit_family": "",
+   "registrar": "NameCheap, Inc. (IANA 1068)",
+   "asn": "AS138608",
+   "country": "SG",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:subsidy lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00038",
    "url_defanged": "hxxps://sprn-kpkt[.]apl-my[.]com/net",
