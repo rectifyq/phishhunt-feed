@@ -1,8 +1,28 @@
 {
- "generated_at": 1791788416,
+ "generated_at": 1791792018,
  "tlp": "tlp:clear",
- "count": 50,
+ "count": 51,
  "rows": [
+  {
+   "case_id": "PH-2026-00055",
+   "url_defanged": "hxxps://maxiss[.]cc/s/70aaf0c1",
+   "url_sha256": "20a5e488a8dcda894914abec7be29b099081a90da7666a2294fbf46d196585bb",
+   "registrable_domain_defanged": "maxiss[.]cc",
+   "first_seen": 1791790333,
+   "last_seen": 1791790333,
+   "state": "enriched",
+   "target_alias": "",
+   "target_sector": "telco",
+   "vector": "sms",
+   "kit_family": "",
+   "registrar": "Dominet (HK) Limited (IANA 3775)",
+   "asn": "AS45102",
+   "country": "SG",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "misp:sms-phishing sector:telco lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00045",
    "url_defanged": "hxxps://semaksegerax1-vx[.]site[.]je/?i=1",
