@@ -1,5 +1,5 @@
 {
- "generated_at": 1791849686,
+ "generated_at": 1791853260,
  "tlp": "tlp:clear",
  "count": 66,
  "rows": [
@@ -250,7 +250,7 @@
    "registrable_domain_defanged": "eksemi[.]site",
    "first_seen": 1791694013,
    "last_seen": 1791694013,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Amber Platform",
    "target_sector": "other",
    "vector": "telegram",
@@ -258,8 +258,8 @@
    "registrar": "HOSTINGER operations, UAB (IANA 1636)",
    "asn": "AS47583",
    "country": "LT",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1791849731,
+   "hours_to_takedown": 43.3,
    "tags_fixed": "misp:fake-website",
    "tlp": "tlp:clear"
   },
