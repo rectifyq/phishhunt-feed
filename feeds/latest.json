@@ -1,7 +1,7 @@
 {
- "generated_at": 1791993612,
+ "generated_at": 1791997211,
  "tlp": "tlp:clear",
- "count": 149,
+ "count": 151,
  "rows": [
   {
    "case_id": "PH-2026-00272",
@@ -544,6 +544,26 @@
    "tlp": "tlp:clear"
   },
   {
+   "case_id": "PH-2026-00150",
+   "url_defanged": "hxxps://maxis-help[.]my[.]id/max",
+   "url_sha256": "172a87df21f9a7e4c1d4436b9539354a7e741f2412f6340f29b42c4d49db678d",
+   "registrable_domain_defanged": "maxis-help[.]my[.]id",
+   "first_seen": 1791892926,
+   "last_seen": 1791892926,
+   "state": "validated",
+   "target_alias": "Bronze Telco",
+   "target_sector": "telco",
+   "vector": "search",
+   "kit_family": "",
+   "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "hosting:free-host",
+   "tlp": "tlp:clear"
+  },
+  {
    "case_id": "PH-2026-00147",
    "url_defanged": "hxxps://maxis-help[.]web[.]id/",
    "url_sha256": "a00fff44b46078a45a129ddbb96fba33e32c2284176d9a78112a2eb0648cfc63",
@@ -678,6 +698,26 @@
    "registrar": "PT JC Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00139",
+   "url_defanged": "hxxps://bantuantouchngo[.]vercel[.]app/",
+   "url_sha256": "1044c2b818d02e29a1a7293c636042d59ebe6d3fb04e917cb0f358232a48229a",
+   "registrable_domain_defanged": "bantuantouchngo[.]vercel[.]app",
+   "first_seen": 1791883523,
+   "last_seen": 1791883523,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "ewallet",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS16509",
+   "country": "US",
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
