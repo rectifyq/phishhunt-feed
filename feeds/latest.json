@@ -1,5 +1,5 @@
 {
- "generated_at": 1791957667,
+ "generated_at": 1791961254,
  "tlp": "tlp:clear",
  "count": 93,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "maxis-cc[.]my[.]id",
    "first_seen": 1791950885,
    "last_seen": 1791950885,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "",
    "target_sector": "telco",
    "vector": "other",
@@ -230,7 +230,7 @@
    "registrable_domain_defanged": "touchngo-moneypot[.]store",
    "first_seen": 1791803220,
    "last_seen": 1791803220,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "",
    "target_sector": "",
    "vector": "",
