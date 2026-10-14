@@ -1,5 +1,5 @@
 {
- "generated_at": 1791936065,
+ "generated_at": 1791939664,
  "tlp": "tlp:clear",
  "count": 83,
  "rows": [
@@ -50,7 +50,7 @@
    "registrable_domain_defanged": "reward20[.]my[.]id",
    "first_seen": 1791818248,
    "last_seen": 1791818248,
-   "state": "reported",
+   "state": "down",
    "target_alias": "",
    "target_sector": "ewallet",
    "vector": "other",
@@ -58,8 +58,8 @@
    "registrar": "PT JC Indonesia (IANA 1)",
    "asn": "AS141892",
    "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1791936124,
+   "hours_to_takedown": 32.7,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
@@ -310,7 +310,7 @@
    "registrable_domain_defanged": "pubgoshrt[.]online",
    "first_seen": 1791773929,
    "last_seen": 1791773929,
-   "state": "reported",
+   "state": "down",
    "target_alias": "Blue Government Service",
    "target_sector": "gov",
    "vector": "telegram",
@@ -318,8 +318,8 @@
    "registrar": "NameCheap, Inc. (IANA 1068)",
    "asn": "AS138608",
    "country": "SG",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1791936127,
+   "hours_to_takedown": 45.1,
    "tags_fixed": "lure:subsidy lure:reward-claim",
    "tlp": "tlp:clear"
   },
