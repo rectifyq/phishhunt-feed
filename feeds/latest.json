@@ -1,5 +1,5 @@
 {
- "generated_at": 1792026086,
+ "generated_at": 1792029683,
  "tlp": "tlp:clear",
  "count": 192,
  "rows": [
@@ -1032,7 +1032,7 @@
    "last_seen": 1791894946,
    "state": "reported",
    "target_alias": "Blue Government Service",
-   "target_sector": "banking",
+   "target_sector": "gov",
    "vector": "other",
    "kit_family": "",
    "registrar": "",
