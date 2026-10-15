@@ -1,5 +1,5 @@
 {
- "generated_at": 1792058514,
+ "generated_at": 1792062114,
  "tlp": "tlp:clear",
  "count": 236,
  "rows": [
@@ -730,7 +730,7 @@
    "registrable_domain_defanged": "recruiitmens[.]me",
    "first_seen": 1791959733,
    "last_seen": 1791959733,
-   "state": "enriched",
+   "state": "reported",
    "target_alias": "Amber Platform",
    "target_sector": "gov",
    "vector": "other",
