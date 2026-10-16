@@ -1,7 +1,7 @@
 {
- "generated_at": 1792119652,
+ "generated_at": 1792123252,
  "tlp": "tlp:clear",
- "count": 330,
+ "count": 333,
  "rows": [
   {
    "case_id": "PH-2026-00448",
@@ -2564,6 +2564,26 @@
    "tlp": "tlp:clear"
   },
   {
+   "case_id": "PH-2026-00186",
+   "url_defanged": "hxxps://white-water-dfe0[.]saman-razi2[.]workers[.]dev/",
+   "url_sha256": "94d1419146fa3743ca888f04be4dc1dbf9fd86504cda1033cae478522db5a827",
+   "registrable_domain_defanged": "saman-razi2[.]workers[.]dev",
+   "first_seen": 1791906346,
+   "last_seen": 1791906346,
+   "state": "reported",
+   "target_alias": "",
+   "target_sector": "gov",
+   "vector": "search",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
    "case_id": "PH-2026-00183",
    "url_defanged": "hxxps://carousell-wallet[.]cc/",
    "url_sha256": "5023ecd8519372414942ad1b9cb4cc33cf2eb07c232f7f6d58a68fa57c71cb6d",
@@ -3081,6 +3101,46 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00149",
+   "url_defanged": "hxxps://myptptn-ptptn-gov-my-app[.]pages[.]dev/",
+   "url_sha256": "6ed3ba46eacc02d54e3b33c6a6872e25b42b23ba1ff3158be2429cb9338cb2f3",
+   "registrable_domain_defanged": "myptptn-ptptn-gov-my-app[.]pages[.]dev",
+   "first_seen": 1791892926,
+   "last_seen": 1791892926,
+   "state": "reported",
+   "target_alias": "",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00148",
+   "url_defanged": "hxxps://myptptn-ptptn-gov-m[.]pages[.]dev/",
+   "url_sha256": "cab9a03da9946a47b50cdc3e5820a576f006a85ce676a9237e08d05f2b3d8561",
+   "registrable_domain_defanged": "myptptn-ptptn-gov-m[.]pages[.]dev",
+   "first_seen": 1791892925,
+   "last_seen": 1791892925,
+   "state": "reported",
+   "target_alias": "Blue Government Service",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "misp:sector-government misp:attack-t1583-001 misp:attack-t1608-005 misp:fake-website",
    "tlp": "tlp:clear"
   },
   {
