@@ -1,0 +1,2 @@
+case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
+PH-2026-00183,hxxps://carousell-wallet[.]cc/,5023ecd8519372414942ad1b9cb4cc33cf2eb07c232f7f6d58a68fa57c71cb6d,carousell-wallet[.]cc,1791906343,1791906343,reported,Copper Platform,marketplace,search,,Dynadot Inc,AS13335,,,,,tlp:clear
