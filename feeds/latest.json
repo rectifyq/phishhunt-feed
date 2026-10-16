@@ -1,5 +1,5 @@
 {
- "generated_at": 1792108877,
+ "generated_at": 1792112470,
  "tlp": "tlp:clear",
  "count": 327,
  "rows": [
@@ -1610,7 +1610,7 @@
    "registrable_domain_defanged": "maxis-shop[.]my[.]id",
    "first_seen": 1791979869,
    "last_seen": 1791979869,
-   "state": "enriched",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -1618,8 +1618,8 @@
    "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792108948,
+   "hours_to_takedown": 35.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
