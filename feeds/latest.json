@@ -1,5 +1,5 @@
 {
- "generated_at": 1792112470,
+ "generated_at": 1792116070,
  "tlp": "tlp:clear",
  "count": 327,
  "rows": [
@@ -2850,7 +2850,7 @@
    "registrable_domain_defanged": "myshink[.]com",
    "first_seen": 1791903667,
    "last_seen": 1791903667,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "whatsapp",
