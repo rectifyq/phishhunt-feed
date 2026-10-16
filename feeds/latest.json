@@ -1,7 +1,7 @@
 {
- "generated_at": 1792116070,
+ "generated_at": 1792119652,
  "tlp": "tlp:clear",
- "count": 327,
+ "count": 330,
  "rows": [
   {
    "case_id": "PH-2026-00448",
@@ -3324,6 +3324,26 @@
    "tlp": "tlp:clear"
   },
   {
+   "case_id": "PH-2026-00135",
+   "url_defanged": "hxxps://semakan[.]permohonan-ppr-malaysia[.]my[.]id/",
+   "url_sha256": "9b6d22e613e77f88da0ba04d6e9b68483e00c50e9cf32f5446a0ef4d859fb3b3",
+   "registrable_domain_defanged": "permohonan-ppr-malaysia[.]my[.]id",
+   "first_seen": 1791883191,
+   "last_seen": 1791883191,
+   "state": "validated",
+   "target_alias": "Sand Government Service",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "PT Digital Registra Indonesia (IANA 1)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "misp:sector-government",
+   "tlp": "tlp:clear"
+  },
+  {
    "case_id": "PH-2026-00134",
    "url_defanged": "hxxps://regismy[.]vercel[.]app/",
    "url_sha256": "05b75681286ab77379f78b83cdb57d64f42f9a84dc03972ead232a9642bebf43",
@@ -3441,6 +3461,46 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "misp:sector-government",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00124",
+   "url_defanged": "hxxps://signformx[.]online/bantuan2",
+   "url_sha256": "5c0f2b486b46941c8bc09b615446d7ec24b271e06aeb9ecb4b52a7cc04f3ae65",
+   "registrable_domain_defanged": "signformx[.]online",
+   "first_seen": 1791863875,
+   "last_seen": 1791863875,
+   "state": "down",
+   "target_alias": "Sand Government Service",
+   "target_sector": "gov",
+   "vector": "telegram",
+   "kit_family": "",
+   "registrar": "NameCheap, Inc. (IANA 1068)",
+   "asn": "",
+   "country": "",
+   "taken_down_at": 1792119464,
+   "hours_to_takedown": 71,
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00120",
+   "url_defanged": "hxxps://shrtlurl[.]online/bantuanmy18//",
+   "url_sha256": "f805fe33bbd15399dbc7da6a9cde41fc4c6957dd1e6aecccb633b1594e3cd9d6",
+   "registrable_domain_defanged": "shrtlurl[.]online",
+   "first_seen": 1791863797,
+   "last_seen": 1791863797,
+   "state": "down",
+   "target_alias": "Sand Government Service",
+   "target_sector": "gov",
+   "vector": "telegram",
+   "kit_family": "",
+   "registrar": "NameCheap, Inc. (IANA 1068)",
+   "asn": "",
+   "country": "",
+   "taken_down_at": 1792119389,
+   "hours_to_takedown": 71,
+   "tags_fixed": "",
    "tlp": "tlp:clear"
   },
   {
