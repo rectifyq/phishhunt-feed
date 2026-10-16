@@ -1,8 +1,28 @@
 {
- "generated_at": 1792162852,
+ "generated_at": 1792166452,
  "tlp": "tlp:clear",
- "count": 351,
+ "count": 352,
  "rows": [
+  {
+   "case_id": "PH-2026-00476",
+   "url_defanged": "hxxps://ewallet-gov-my[.]my[.]id/",
+   "url_sha256": "fb3d5567d02a50f6fa9ed5f097dabee8cf28e28497ee763804727f6facc3c727",
+   "registrable_domain_defanged": "ewallet-gov-my[.]my[.]id",
+   "first_seen": 1792152107,
+   "last_seen": 1792152107,
+   "state": "validated",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "PT Digital Registra Indonesia (IANA 1)",
+   "asn": "AS214882",
+   "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00458",
    "url_defanged": "hxxps://org-maxis[.]my[.]id/max",
