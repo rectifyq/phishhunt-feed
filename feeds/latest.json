@@ -1,5 +1,5 @@
 {
- "generated_at": 1792339211,
+ "generated_at": 1792342811,
  "tlp": "tlp:clear",
  "count": 443,
  "rows": [
@@ -410,7 +410,7 @@
    "registrable_domain_defanged": "shrtl[.]me",
    "first_seen": 1792073676,
    "last_seen": 1792073676,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
