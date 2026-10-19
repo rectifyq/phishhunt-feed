@@ -1,5 +1,5 @@
 {
- "generated_at": 1792368011,
+ "generated_at": 1792371611,
  "tlp": "tlp:clear",
  "count": 444,
  "rows": [
@@ -2890,7 +2890,7 @@
    "registrable_domain_defanged": "fabowin[.]com",
    "first_seen": 1791984127,
    "last_seen": 1791984127,
-   "state": "reported",
+   "state": "down",
    "target_alias": "",
    "target_sector": "crypto",
    "vector": "other",
@@ -2898,8 +2898,8 @@
    "registrar": "Fewmoretaps OU d/b/a Trustname.com (IANA 4318)",
    "asn": "AS14956",
    "country": "AU",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792368162,
+   "hours_to_takedown": 106.7,
    "tags_fixed": "hosting:cdn-fronted misp:sector-cryptocurrency misp:attack-t1656 lure:bank-verification misp:persuasion-commitment misp:persuasion-liking lure:festive misp:fake-website lure:reward-claim",
    "tlp": "tlp:clear"
   },
@@ -4330,7 +4330,7 @@
    "registrable_domain_defanged": "maxis-maxis[.]shop",
    "first_seen": 1791951120,
    "last_seen": 1791992970,
-   "state": "reported",
+   "state": "down",
    "target_alias": "Indigo Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -4338,8 +4338,8 @@
    "registrar": "GNAME.COM PTE. LTD.",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792368097,
+   "hours_to_takedown": 115.8,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
