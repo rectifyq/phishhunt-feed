@@ -1,5 +1,5 @@
 {
- "generated_at": 1792440011,
+ "generated_at": 1792443614,
  "tlp": "tlp:clear",
  "count": 460,
  "rows": [
@@ -11,7 +11,7 @@
    "first_seen": 1792404132,
    "last_seen": 1792404132,
    "state": "reported",
-   "target_alias": "",
+   "target_alias": "Amber Government Service",
    "target_sector": "gov",
    "vector": "telegram",
    "kit_family": "",
