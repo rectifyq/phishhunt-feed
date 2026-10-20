@@ -1,5 +1,5 @@
 {
- "generated_at": 1792476010,
+ "generated_at": 1792479610,
  "tlp": "tlp:clear",
  "count": 502,
  "rows": [
@@ -70,7 +70,7 @@
    "registrable_domain_defanged": "big5[.]my[.]id",
    "first_seen": 1792337051,
    "last_seen": 1792337051,
-   "state": "reported",
+   "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "other",
@@ -78,8 +78,8 @@
    "registrar": "PT Exabytes Network Indonesia (IANA 1)",
    "asn": "AS199695",
    "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792476145,
+   "hours_to_takedown": 38.6,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
