@@ -1,7 +1,7 @@
 {
- "generated_at": 1792461610,
+ "generated_at": 1792465211,
  "tlp": "tlp:clear",
- "count": 462,
+ "count": 464,
  "rows": [
   {
    "case_id": "PH-2026-00581",
@@ -2804,6 +2804,26 @@
    "tlp": "tlp:clear"
   },
   {
+   "case_id": "PH-2026-00276",
+   "url_defanged": "hxxps://myptptn-ptptn[.]pages[.]dev/",
+   "url_sha256": "49ae12facd20d3893d13cc9722305bb647f141566c6c7238283f6e537c6fc6f9",
+   "registrable_domain_defanged": "myptptn-ptptn[.]pages[.]dev",
+   "first_seen": 1791986771,
+   "last_seen": 1791986771,
+   "state": "validated",
+   "target_alias": "Amber Government Service",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
    "case_id": "PH-2026-00273",
    "url_defanged": "hxxps://bantuan-gopay[.]ewallet2026[.]my[.]id/",
    "url_sha256": "0399b16a16f94090a14747fd4a45bbae163acc8c8eb02c51248e833ea1b3d16b",
@@ -5494,6 +5514,26 @@
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "other",
+   "kit_family": "",
+   "registrar": "Spaceship, Inc.",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "misp:sector-government",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00133",
+   "url_defanged": "hxxps://4ntu4ns0s1al[.]rcru1tzmen[.]cyou/",
+   "url_sha256": "faad54d9920a9469cc3a269a6a7177c4e0fb202f2114b7d580778c6526311b13",
+   "registrable_domain_defanged": "rcru1tzmen[.]cyou",
+   "first_seen": 1792462860,
+   "last_seen": 1792462860,
+   "state": "validated",
+   "target_alias": "Sand Government Service",
+   "target_sector": "gov",
+   "vector": "search",
    "kit_family": "",
    "registrar": "Spaceship, Inc.",
    "asn": "AS13335",
