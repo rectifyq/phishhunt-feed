@@ -1,5 +1,5 @@
 {
- "generated_at": 1792501213,
+ "generated_at": 1792504817,
  "tlp": "tlp:clear",
  "count": 503,
  "rows": [
@@ -4274,7 +4274,7 @@
    "target_alias": "",
    "target_sector": "",
    "vector": "other",
-   "kit_family": "",
+   "kit_family": "Maxis /vip multi-brand Vite kit",
    "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
@@ -4334,7 +4334,7 @@
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
-   "kit_family": "",
+   "kit_family": "Maxis /vip multi-brand Vite kit",
    "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
