@@ -1,5 +1,5 @@
 {
- "generated_at": 1792497611,
+ "generated_at": 1792501213,
  "tlp": "tlp:clear",
  "count": 503,
  "rows": [
@@ -70,7 +70,7 @@
    "registrable_domain_defanged": "shrtlurl[.]online",
    "first_seen": 1792403832,
    "last_seen": 1792403832,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "gov",
    "vector": "telegram",
@@ -78,8 +78,8 @@
    "registrar": "NameCheap, Inc. (IANA 1068)",
    "asn": "",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792497632,
+   "hours_to_takedown": 26.1,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
@@ -170,7 +170,7 @@
    "registrable_domain_defanged": "id-mymaxis[.]my[.]id",
    "first_seen": 1792140921,
    "last_seen": 1792140921,
-   "state": "reported",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -178,8 +178,8 @@
    "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792497638,
+   "hours_to_takedown": 99.1,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
