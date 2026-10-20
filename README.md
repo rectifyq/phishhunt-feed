@@ -3,7 +3,7 @@
 Defanged phishing indicators observed by the Malaysian PhishHunt community. Every URL is defanged (`hxxps://`, `[.]`);
 `url_sha256` is the hash of the scheme-less canonical form so you can deduplicate without ever refanging.
 
-Cases in corpus: **460** · regenerated 2026-10-19T18:00:30.000Z · TLP:CLEAR
+Cases in corpus: **509** · regenerated 2026-10-20T18:00:35.000Z · TLP:CLEAR
 
 | File | Content |
 |---|---|
@@ -18,7 +18,7 @@ MISP and STIX exports cannot be defanged and remain functional; they live on `fe
 
 ## Featured analyses
 
-_None yet._
+- [PH-2026-00019 — E-Wallet Reward-to-Login Investigation](https://github.com/Alice1nRootland/Hacking_Lab/blob/main/Threat%20Intel/PH-2026-00019/README.md) — @Cyber_Aliceee · PH-2026-00019
 
 ## Editorial
 
