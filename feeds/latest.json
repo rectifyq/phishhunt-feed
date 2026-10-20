@@ -1,5 +1,5 @@
 {
- "generated_at": 1792465211,
+ "generated_at": 1792469714,
  "tlp": "tlp:clear",
  "count": 464,
  "rows": [
@@ -5970,7 +5970,7 @@
    "registrable_domain_defanged": "jawatan-kosong-06a424[.]vercel[.]app",
    "first_seen": 1791812286,
    "last_seen": 1791812286,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
