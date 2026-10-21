@@ -1,5 +1,5 @@
 {
- "generated_at": 1792605611,
+ "generated_at": 1792609215,
  "tlp": "tlp:clear",
  "count": 511,
  "rows": [
@@ -330,7 +330,7 @@
    "registrable_domain_defanged": "mymaxis-cc[.]eu[.]cc",
    "first_seen": 1792140870,
    "last_seen": 1792140870,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "telco",
    "vector": "other",
@@ -338,8 +338,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792605722,
+   "hours_to_takedown": 129.1,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
@@ -1550,7 +1550,7 @@
    "registrable_domain_defanged": "cn-maxis[.]web[.]id",
    "first_seen": 1792040882,
    "last_seen": 1792040882,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -1558,8 +1558,8 @@
    "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792605772,
+   "hours_to_takedown": 156.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
