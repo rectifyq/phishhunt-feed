@@ -1,5 +1,5 @@
 {
- "generated_at": 1792562411,
+ "generated_at": 1792566013,
  "tlp": "tlp:clear",
  "count": 510,
  "rows": [
@@ -1250,7 +1250,7 @@
    "registrable_domain_defanged": "maxis-maxis[.]eu[.]cc",
    "first_seen": 1792040894,
    "last_seen": 1792040894,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "telco",
    "vector": "other",
@@ -1258,8 +1258,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792562535,
+   "hours_to_takedown": 144.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
