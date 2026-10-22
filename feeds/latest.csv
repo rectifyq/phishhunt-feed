@@ -1,4 +1,5 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
+PH-2026-00877,hxxps://maxis[.]rewamy[.]com/my,8c1c1e88f708e45db824eeebc8b95b6dd33b762be13dc88580779e86c6c2b71f,rewamy[.]com,1792638316,1792638316,validated,Lilac Telco,telco,sms,,Dominet (HK) Limited (IANA 3775),AS45102,SG,,,,tlp:clear
 PH-2026-00824,hxxps://wiki-maxis[.]web[.]id/max,c691b64b0f1e50a6081e9da5c6f02719e729d10f2818c57033a336e4d90e6471,wiki-maxis[.]web[.]id,1792474625,1792474625,validated,Lilac Telco,telco,other,,PT Jagoan Hosting Indonesia (IANA 1),AS13335,,,,,tlp:clear
 PH-2026-00822,hxxps://bantuantngmalaysia9[.]blogspot[.]com/?m=1,baf6c45f1db8203876201afc6a3184567101a47c8b7f6cd23802cce8910c790f,bantuantngmalaysia9[.]blogspot[.]com,1792462685,1792462685,validated,,,search,,,AS15169,US,,,,tlp:clear
 PH-2026-00581,hxxps://semakanstr[.]rqmapk[.]com/,9586ed69d87c50002708dc813ecf82f9ab5164c353c0538a283ecc460ab47a99,rqmapk[.]com,1792404132,1792459487,reported,Amber Government Service,gov,telegram,,CV. Jogjacamp (IANA 1478),AS141995,SG,,,,tlp:clear
