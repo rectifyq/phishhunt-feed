@@ -1,8 +1,28 @@
 {
- "generated_at": 1792677612,
+ "generated_at": 1792681213,
  "tlp": "tlp:clear",
- "count": 513,
+ "count": 514,
  "rows": [
+  {
+   "case_id": "PH-2026-00878",
+   "url_defanged": "hxxps://shrturl[.]dev/Get-Tng-Cdn-Digital",
+   "url_sha256": "14a84a3640463a3592fc5ef389f29c46dc5ea0705bc7c93e2e39a9a900c3370a",
+   "registrable_domain_defanged": "shrturl[.]dev",
+   "first_seen": 1792650248,
+   "last_seen": 1792650248,
+   "state": "reported",
+   "target_alias": "",
+   "target_sector": "",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "Sav.com, LLC (IANA 609)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-00877",
    "url_defanged": "hxxps://maxis[.]rewamy[.]com/my",
