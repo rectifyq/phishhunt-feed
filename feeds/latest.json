@@ -1,5 +1,5 @@
 {
- "generated_at": 1792756811,
+ "generated_at": 1792757711,
  "tlp": "tlp:clear",
  "count": 553,
  "rows": [
@@ -8210,7 +8210,7 @@
    "registrable_domain_defanged": "registmy[.]com",
    "first_seen": 1791807785,
    "last_seen": 1791807785,
-   "state": "reported",
+   "state": "down",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
@@ -8218,8 +8218,8 @@
    "registrar": "OpusDNS GmbH (IANA 4340)",
    "asn": "AS16509",
    "country": "US",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792756918,
+   "hours_to_takedown": 263.6,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
