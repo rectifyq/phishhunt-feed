@@ -1,4 +1,6 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
+PH-2026-00915,hxxps://register-now[.]fy-nt[.]com/my,36e1f627849e639404bbf2a3e5043d070622f06a52f1626461ba5679f077548c,fy-nt[.]com,1792726842,1792726842,validated,,,other,,"Spaceship, Inc. (IANA 3862)",,,,,,tlp:clear
+PH-2026-00914,hxxps://no-dhl[.]world/82no2,b9b044f0a9cb02890df8bbba79b20de3d35b14af1a20e91aa4f5689ff96f8c9d,no-dhl[.]world,1792726831,1792726831,validated,,,other,,"Name.com, Inc. (IANA 625)",,,,,,tlp:clear
 PH-2026-00912,hxxps://myvip-maxis[.]my[.]id/max,270b7e7648469aa58bc4f80bb9d184f54b2df7445c622cdb43c42a1aa31dc3f6,myvip-maxis[.]my[.]id,1792726810,1792726810,validated,,,other,,PT Jagoan Hosting Indonesia (IANA 1),,,,,,tlp:clear
 PH-2026-00911,hxxps://maxisvip-help[.]my[.]id/max,d33e43cc96a96e49c7f854cd8b1347af5282ec20f844267c0370bb4119a7d99a,maxisvip-help[.]my[.]id,1792726785,1792726785,validated,,,other,,PT Jagoan Hosting Indonesia (IANA 1),,,,,,tlp:clear
 PH-2026-00910,hxxps://maxis-vip[.]web[.]id/vip,4a68a1226e2e2cf98a11046fccc21b05677f71ece95897fafb9bd2bd2b5438ee,maxis-vip[.]web[.]id,1792726775,1792726775,validated,,,other,,PT Jagoan Hosting Indonesia (IANA 1),,,,,,tlp:clear
