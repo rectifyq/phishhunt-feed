@@ -1,5 +1,5 @@
 {
- "generated_at": 1792814411,
+ "generated_at": 1792818011,
  "tlp": "tlp:clear",
  "count": 553,
  "rows": [
@@ -7870,7 +7870,7 @@
    "registrable_domain_defanged": "jawatankosong-ede051[.]vercel[.]app",
    "first_seen": 1791809118,
    "last_seen": 1791809118,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "qr",
@@ -8250,7 +8250,7 @@
    "registrable_domain_defanged": "npt-my[.]com",
    "first_seen": 1791807527,
    "last_seen": 1791807527,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "qr",
@@ -8270,7 +8270,7 @@
    "registrable_domain_defanged": "npt-my[.]com",
    "first_seen": 1791807743,
    "last_seen": 1791807743,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "qr",
