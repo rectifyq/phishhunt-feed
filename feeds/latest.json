@@ -1,5 +1,5 @@
 {
- "generated_at": 1792951215,
+ "generated_at": 1792954812,
  "tlp": "tlp:clear",
  "count": 606,
  "rows": [
@@ -1430,7 +1430,7 @@
    "registrable_domain_defanged": "ameedalinjaz[.]online",
    "first_seen": 1792387626,
    "last_seen": 1792387626,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "",
    "vector": "other",
@@ -1438,8 +1438,8 @@
    "registrar": "HOSTINGER operations, UAB (IANA 1636)",
    "asn": "",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1792951342,
+   "hours_to_takedown": 156.6,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
