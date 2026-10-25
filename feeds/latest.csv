@@ -1,5 +1,5 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
-PH-2026-00920,hxxps://touch-n-go14[.]ewallet-24[.]click/,c560fc4c9a8ca736cc44eec3e7b19e8e2e44d461c771dc24bae457754d6deed0,ewallet-24[.]click,1792732977,1792732977,validated,,,other,,"NameSilo, LLC (IANA 1479)",,,,,,tlp:clear
+PH-2026-00920,hxxps://touch-n-go14[.]ewallet-24[.]click/,c560fc4c9a8ca736cc44eec3e7b19e8e2e44d461c771dc24bae457754d6deed0,ewallet-24[.]click,1792732977,1792732977,reported,,,other,,"NameSilo, LLC (IANA 1479)",AS13335,,,,,tlp:clear
 PH-2026-00917,hxxps://wiki-maxis[.]biz[.]id/max,e1514b5fc7946f3f56ef25c6dcc3679fa22eef3d063c1e4344c7faa70aedd59e,wiki-maxis[.]biz[.]id,1792726872,1792726872,validated,,,other,,PT Jagoan Hosting Indonesia (IANA 1),,,,,,tlp:clear
 PH-2026-00916,hxxps://vip-mymaxis[.]eu[.]cc/vip,7493c7a84df10804aeb5bebfa266cc3ceebfd809b2d2bd9008443833ebf99d01,vip-mymaxis[.]eu[.]cc,1792726862,1792726862,validated,,,other,,,,,,,,tlp:clear
 PH-2026-00915,hxxps://register-now[.]fy-nt[.]com/my,36e1f627849e639404bbf2a3e5043d070622f06a52f1626461ba5679f077548c,fy-nt[.]com,1792726842,1792740455,down,,,other,,"Spaceship, Inc. (IANA 3862)",,,1792864916,38.4,,tlp:clear

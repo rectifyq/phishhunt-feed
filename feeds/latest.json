@@ -1,5 +1,5 @@
 {
- "generated_at": 1792940411,
+ "generated_at": 1792944324,
  "tlp": "tlp:clear",
  "count": 606,
  "rows": [
@@ -10,13 +10,13 @@
    "registrable_domain_defanged": "ewallet-24[.]click",
    "first_seen": 1792732977,
    "last_seen": 1792732977,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "",
    "target_sector": "",
    "vector": "other",
    "kit_family": "",
    "registrar": "NameSilo, LLC (IANA 1479)",
-   "asn": "",
+   "asn": "AS13335",
    "country": "",
    "taken_down_at": "",
    "hours_to_takedown": "",
