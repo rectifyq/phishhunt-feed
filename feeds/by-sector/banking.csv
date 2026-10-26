@@ -1,4 +1,5 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
+PH-2026-00945,hxxps://maybanku2u[.]maybeuv[.]com/3vn6av,92315e80442be6e28efafac48296ef789c176b6420f2bc43bdbe9e781c9f11cb,maybeuv[.]com,1793010269,1793010269,validated,Plum Bank,banking,sms,,Dominet (HK) Limited (IANA 3775),AS45102,SG,,,,tlp:clear
 PH-2026-00220,hxxps://cimb-suppliers[.]ivalua[.]app/,acd1b8a57ad4e2e4d37c18af437e85f66ee91c961ebc07ef24c9250623133679,ivalua[.]app,1791968990,1791968990,reported,Cobalt Bank,banking,other,,Gandi SAS (IANA 81),AS8075,SG,,,,tlp:clear
 PH-2026-00220,hxxps://cimb[.]ivalua[.]app/,6a13ccb3bc1a1c9649a8ba7f17c66889413031aa3e23982c226df5af34d95100,ivalua[.]app,1791968995,1791968995,reported,Cobalt Bank,banking,other,,Gandi SAS (IANA 81),AS8075,SG,,,,tlp:clear
 PH-2026-00187,hxxps://moneypocket[.]my-c[.]me/tng,b5bc026d16bed2858a7510d3f10bedeb0086ce6c104251f8bb409c63a22a7966,my-c[.]me,1791908691,1791908691,reported,Cobalt Bank,banking,qr,,,AS55688,ID,,,evasion:fragment-key lure:reward-claim,tlp:clear

@@ -1,2 +1,3 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
+PH-2026-00914,hxxps://no-dhl[.]world/82no2,b9b044f0a9cb02890df8bbba79b20de3d35b14af1a20e91aa4f5689ff96f8c9d,no-dhl[.]world,1792726831,1792726831,down,,courier,other,,"Name.com, Inc. (IANA 625)",,,1792864917,38.4,,tlp:clear
 PH-2026-00198,hxxps://my-jawatankosong[.]vercel[.]app/applynow37/jntexpress,6653d62979e3c35f66f80bcfce4ba5eaef7a016572ddf0ab30a75874fc8180a2,my-jawatankosong[.]vercel[.]app,1791951843,1791951843,reported,Sand Courier,courier,qr,,,AS16509,US,,,lure:job-offer,tlp:clear
