@@ -1,7 +1,7 @@
 {
- "generated_at": 1793041211,
+ "generated_at": 1793044812,
  "tlp": "tlp:clear",
- "count": 652,
+ "count": 653,
  "rows": [
   {
    "case_id": "PH-2026-00945",
@@ -1250,6 +1250,26 @@
    "registrable_domain_defanged": "rqlapk[.]my[.]id",
    "first_seen": 1792447575,
    "last_seen": 1792447575,
+   "state": "validated",
+   "target_alias": "Amber Government Service",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "PT Registrasi Neva Angkasa (IANA 1)",
+   "asn": "AS141995",
+   "country": "SG",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00780",
+   "url_defanged": "hxxps://semakan-str[.]rqpapk[.]my[.]id/",
+   "url_sha256": "a9b49a339501472a69eb3041324370b4bebec84d6b64716a5b134e6466083a1d",
+   "registrable_domain_defanged": "rqpapk[.]my[.]id",
+   "first_seen": 1792447525,
+   "last_seen": 1792447525,
    "state": "validated",
    "target_alias": "Amber Government Service",
    "target_sector": "gov",
