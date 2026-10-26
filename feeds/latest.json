@@ -1,5 +1,5 @@
 {
- "generated_at": 1792983615,
+ "generated_at": 1792987974,
  "tlp": "tlp:clear",
  "count": 607,
  "rows": [
@@ -8669,7 +8669,7 @@
    "url_sha256": "838e0718e2a01d4ebf7bd748c5a6a8b47b441e7e50a8782e02efa80d98cabdd0",
    "registrable_domain_defanged": "malaysia1-terkini[.]com",
    "first_seen": 1791810759,
-   "last_seen": 1791810759,
+   "last_seen": 1792984452,
    "state": "reported",
    "target_alias": "",
    "target_sector": "",
@@ -8689,7 +8689,7 @@
    "url_sha256": "6c0aad8ea961b206771a0c34083f6d2ba3aad444dbfa20f6123ae09d0fc0db18",
    "registrable_domain_defanged": "malaysia1-terkini[.]com",
    "first_seen": 1791816419,
-   "last_seen": 1791816419,
+   "last_seen": 1792984452,
    "state": "reported",
    "target_alias": "",
    "target_sector": "",
@@ -8709,7 +8709,7 @@
    "url_sha256": "6b098238d5206ed420189c83092bb5320e27a428c25b94dadfa7ccab9c75d83b",
    "registrable_domain_defanged": "malaysia1-terkini[.]com",
    "first_seen": 1792855050,
-   "last_seen": 1792855050,
+   "last_seen": 1792984452,
    "state": "reported",
    "target_alias": "",
    "target_sector": "other",
