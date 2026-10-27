@@ -3,7 +3,7 @@
 Defanged phishing indicators observed by the Malaysian PhishHunt community. Every URL is defanged (`hxxps://`, `[.]`);
 `url_sha256` is the hash of the scheme-less canonical form so you can deduplicate without ever refanging.
 
-Cases in corpus: **652** · regenerated 2026-10-26T18:00:32.000Z · TLP:CLEAR
+Cases in corpus: **661** · regenerated 2026-10-27T18:00:42.000Z · TLP:CLEAR
 
 | File | Content |
 |---|---|
