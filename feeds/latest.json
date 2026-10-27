@@ -1,7 +1,7 @@
 {
- "generated_at": 1793103313,
+ "generated_at": 1793109615,
  "tlp": "tlp:clear",
- "count": 660,
+ "count": 661,
  "rows": [
   {
    "case_id": "PH-2026-00949",
@@ -121,6 +121,26 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00941",
+   "url_defanged": "hxxps://permohonanjawatankosong[.]vercel[.]app/gov.my",
+   "url_sha256": "583035b9d08d9248e323e37be0b37eda1ce21a6f3e7832195b0826c340e6cecc",
+   "registrable_domain_defanged": "permohonanjawatankosong[.]vercel[.]app",
+   "first_seen": 1792971028,
+   "last_seen": 1792995931,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS16509",
+   "country": "US",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:job-offer",
    "tlp": "tlp:clear"
   },
   {
