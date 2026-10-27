@@ -1,5 +1,5 @@
 {
- "generated_at": 1793088011,
+ "generated_at": 1793091611,
  "tlp": "tlp:clear",
  "count": 659,
  "rows": [
@@ -110,7 +110,7 @@
    "registrable_domain_defanged": "maybeuv[.]com",
    "first_seen": 1793010269,
    "last_seen": 1793010269,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "Plum Bank",
    "target_sector": "banking",
    "vector": "sms",
@@ -1050,7 +1050,7 @@
    "registrable_domain_defanged": "rewamy[.]com",
    "first_seen": 1792638316,
    "last_seen": 1792638316,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "sms",
