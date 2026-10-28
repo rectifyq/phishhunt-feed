@@ -1,5 +1,5 @@
 {
- "generated_at": 1793188811,
+ "generated_at": 1793196012,
  "tlp": "tlp:clear",
  "count": 682,
  "rows": [
@@ -410,7 +410,7 @@
    "registrable_domain_defanged": "exelen[.]site",
    "first_seen": 1792854579,
    "last_seen": 1792854579,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "qr",
@@ -418,8 +418,8 @@
    "registrar": "HOSTINGER operations, UAB (IANA 1636)",
    "asn": "AS47583",
    "country": "LT",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793188944,
+   "hours_to_takedown": 92.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
@@ -1090,7 +1090,7 @@
    "registrable_domain_defanged": "wiki-maxis[.]eu[.]cc",
    "first_seen": 1792725143,
    "last_seen": 1792725143,
-   "state": "enriched",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -1098,8 +1098,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793188999,
+   "hours_to_takedown": 128.8,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
