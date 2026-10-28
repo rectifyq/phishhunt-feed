@@ -1,5 +1,5 @@
 {
- "generated_at": 1793145623,
+ "generated_at": 1793149211,
  "tlp": "tlp:clear",
  "count": 661,
  "rows": [
@@ -5730,7 +5730,7 @@
    "registrable_domain_defanged": "sx6c8[.]my[.]id",
    "first_seen": 1792030751,
    "last_seen": 1792030751,
-   "state": "reported",
+   "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "other",
@@ -5738,8 +5738,8 @@
    "registrar": "PT Cloud Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793145798,
+   "hours_to_takedown": 309.7,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
