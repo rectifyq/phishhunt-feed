@@ -1,7 +1,7 @@
 {
- "generated_at": 1793304911,
+ "generated_at": 1793307611,
  "tlp": "tlp:clear",
- "count": 720,
+ "count": 721,
  "rows": [
   {
    "case_id": "PH-2026-00974",
@@ -278,6 +278,26 @@
    "registrar": "PT Digital Registra Indonesia (IANA 1)",
    "asn": "AS214882",
    "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00959",
+   "url_defanged": "hxxps://kwspresgistsemak[.]regv1[.]workers[.]dev/",
+   "url_sha256": "06f21f58fdaf7bf80524b3642ada046d8c03b3a469e79d5ee24d3a9b90bed404",
+   "registrable_domain_defanged": "regv1[.]workers[.]dev",
+   "first_seen": 1793173635,
+   "last_seen": 1793173635,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "gov",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "",
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
