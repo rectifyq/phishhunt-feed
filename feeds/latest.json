@@ -1,5 +1,5 @@
 {
- "generated_at": 1793278811,
+ "generated_at": 1793282411,
  "tlp": "tlp:clear",
  "count": 699,
  "rows": [
@@ -850,7 +850,7 @@
    "registrable_domain_defanged": "uaee[.]it[.]com",
    "first_seen": 1792853155,
    "last_seen": 1792853155,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "Amber Platform",
    "target_sector": "other",
    "vector": "qr",
@@ -870,7 +870,7 @@
    "registrable_domain_defanged": "uaee[.]it[.]com",
    "first_seen": 1793273120,
    "last_seen": 1793273120,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "Amber Platform",
    "target_sector": "other",
    "vector": "qr",
@@ -890,7 +890,7 @@
    "registrable_domain_defanged": "uaee[.]it[.]com",
    "first_seen": 1793277909,
    "last_seen": 1793277909,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "Amber Platform",
    "target_sector": "other",
    "vector": "other",
