@@ -1,5 +1,5 @@
 {
- "generated_at": 1793318411,
+ "generated_at": 1793322011,
  "tlp": "tlp:clear",
  "count": 721,
  "rows": [
@@ -1730,7 +1730,7 @@
    "registrable_domain_defanged": "myvip-maxis[.]eu[.]cc",
    "first_seen": 1792725100,
    "last_seen": 1792725100,
-   "state": "enriched",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -1738,8 +1738,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793318643,
+   "hours_to_takedown": 164.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
@@ -1810,7 +1810,7 @@
    "registrable_domain_defanged": "maxis-wiki[.]eu[.]cc",
    "first_seen": 1792725067,
    "last_seen": 1792725067,
-   "state": "enriched",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "other",
@@ -1818,8 +1818,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793318627,
+   "hours_to_takedown": 164.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
