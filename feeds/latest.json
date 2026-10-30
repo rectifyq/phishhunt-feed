@@ -1,5 +1,5 @@
 {
- "generated_at": 1793314811,
+ "generated_at": 1793318411,
  "tlp": "tlp:clear",
  "count": 721,
  "rows": [
@@ -11389,7 +11389,7 @@
    "url_sha256": "be346966dd32dbb22ee49b86ca952f31e159a39a233fdf42d71bae7da089ba86",
    "registrable_domain_defanged": "it[.]com",
    "first_seen": 1791805578,
-   "last_seen": 1793073778,
+   "last_seen": 1793317996,
    "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
