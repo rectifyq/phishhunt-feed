@@ -1,7 +1,7 @@
 {
- "generated_at": 1793426411,
+ "generated_at": 1793430011,
  "tlp": "tlp:clear",
- "count": 727,
+ "count": 728,
  "rows": [
   {
    "case_id": "PH-2026-00993",
@@ -10810,6 +10810,26 @@
    "registrable_domain_defanged": "centre-hlp[.]web[.]id",
    "first_seen": 1792514193,
    "last_seen": 1792514193,
+   "state": "reported",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "other",
+   "kit_family": "",
+   "registrar": "PT JC Indonesia (IANA 1)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00100",
+   "url_defanged": "hxxps://jwngtsgn[.]centre-hlp[.]web[.]id/",
+   "url_sha256": "beae11fc4bab6f86daf89d2eb0ae778aa39452bb462624c1b7cdf0249d0b6d89",
+   "registrable_domain_defanged": "centre-hlp[.]web[.]id",
+   "first_seen": 1793427061,
+   "last_seen": 1793427061,
    "state": "reported",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
