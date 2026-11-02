@@ -1,4 +1,7 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
+PH-2026-01015,hxxps://maybanku2u[.]mayu2u[.]com/85zkvk,92ee54ae4237bd8b9a6e3a261388d09650f3ef12a8252453c9822354d0ec87fa,mayu2u[.]com,1793631055,1793631055,validated,,banking,other,,Dominet (HK) Limited (IANA 3775),AS45102,SG,,,,tlp:clear
+PH-2026-01014,hxxps://zkzzz[.]top/,659d7c98630547feede900fd22d00e505cbf97ff0aaf3f3f67ef0687e4dd2529,zkzzz[.]top,1793630973,1793630973,validated,,gov,other,,Gname.com Pte. Ltd. (IANA 1923),AS153656,HK,,,,tlp:clear
+PH-2026-01013,hxxps://dpgov[.]cc/,29f7144856e403555e5af1e8e6ebdd28650f3e28363ed4b9512b12751dfdce8d,dpgov[.]cc,1793630934,1793630934,validated,,gov,other,,"22net, Inc. (IANA 1555)",AS13335,,,,,tlp:clear
 PH-2026-01011,hxxps://touchngo3[.]govzv[.]com/,58bbc1979261a0f8882075a1049b27dacde4f33fb72a8499f9fb96778a8900ad,govzv[.]com,1793460129,1793460129,validated,,,other,,"HOSTINGER operations, UAB (IANA 1636)",,,,,,tlp:clear
 PH-2026-01011,hxxps://touchngo4[.]govzv[.]com/,91a975cdc67b78af1682a9bcabc0f61ac91da66378b199f7f35494da9dff10fd,govzv[.]com,1793460438,1793460438,validated,,,other,,"HOSTINGER operations, UAB (IANA 1636)",,,,,,tlp:clear
 PH-2026-01009,hxxps://moneypocket[.]s-my[.]app/link/index1.php,b74b72de8bb7e7c4e63958a1f74eb459ed3bd636db6d71031d0070333229b5e6,s-my[.]app,1793446838,1793446838,validated,,,other,,"Name.com, Inc. (IANA 625)",,,,,,tlp:clear
