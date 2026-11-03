@@ -1,5 +1,5 @@
 {
- "generated_at": 1793707211,
+ "generated_at": 1793710811,
  "tlp": "tlp:clear",
  "count": 751,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "mayu2u[.]com",
    "first_seen": 1793631055,
    "last_seen": 1793631055,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "",
    "target_sector": "banking",
    "vector": "other",
@@ -9870,7 +9870,7 @@
    "registrable_domain_defanged": "cn-maxis[.]biz[.]id",
    "first_seen": 1791905402,
    "last_seen": 1791905402,
-   "state": "enriched",
+   "state": "down",
    "target_alias": "Lilac Telco",
    "target_sector": "telco",
    "vector": "search",
@@ -9878,8 +9878,8 @@
    "registrar": "PT Jagoan Hosting Indonesia (IANA 1)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793707396,
+   "hours_to_takedown": 500.6,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
