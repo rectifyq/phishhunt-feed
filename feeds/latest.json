@@ -1,8 +1,28 @@
 {
- "generated_at": 1793739611,
+ "generated_at": 1793743210,
  "tlp": "tlp:clear",
- "count": 756,
+ "count": 757,
  "rows": [
+  {
+   "case_id": "PH-2026-01020",
+   "url_defanged": "hxxps://touchngo[.]w-my[.]me/link",
+   "url_sha256": "fe5f3ba9293d972d98ba6e0b0767e323c4d9ec0582931b27bc7cd07144b956a6",
+   "registrable_domain_defanged": "w-my[.]me",
+   "first_seen": 1793713830,
+   "last_seen": 1793713830,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS55688",
+   "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "evasion:fragment-key",
+   "tlp": "tlp:clear"
+  },
   {
    "case_id": "PH-2026-01019",
    "url_defanged": "hxxps://bantuan-tng[.]my-apy[.]com/raya.gov?utm_campaign=brand_awareness_2026&utm_creative_format=mobile_interstitial&device=desktop&gclid=GL_2bca08f69f4b8ee45666c3fe&variant_id=B&utm_source_platform=manual_gen&lang=id&utm_content=video_short&utm_term=beli_sekarang_diskon&utm_id=CAMP_823&session_id=ujac02a6452416",
