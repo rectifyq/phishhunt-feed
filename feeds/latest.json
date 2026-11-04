@@ -1,5 +1,5 @@
 {
- "generated_at": 1793815230,
+ "generated_at": 1793818810,
  "tlp": "tlp:clear",
  "count": 752,
  "rows": [
@@ -3230,7 +3230,7 @@
    "registrable_domain_defanged": "xxx55[.]my[.]id",
    "first_seen": 1792430267,
    "last_seen": 1792430267,
-   "state": "reported",
+   "state": "down",
    "target_alias": "",
    "target_sector": "",
    "vector": "other",
@@ -3238,8 +3238,8 @@
    "registrar": "PT Digital Registra Indonesia (IANA 1)",
    "asn": "AS58487",
    "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793815277,
+   "hours_to_takedown": 384.7,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
