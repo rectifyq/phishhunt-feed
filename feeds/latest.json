@@ -1,5 +1,5 @@
 {
- "generated_at": 1793772010,
+ "generated_at": 1793775610,
  "tlp": "tlp:clear",
  "count": 753,
  "rows": [
@@ -60,7 +60,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -700,7 +700,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -720,7 +720,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -920,7 +920,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -1460,7 +1460,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -2820,7 +2820,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -2840,7 +2840,7 @@
    "country": "",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -2860,7 +2860,7 @@
    "country": "",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "",
+   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
@@ -13260,7 +13260,7 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "misp:sms-phishing sector:telco lure:reward-claim",
+   "tags_fixed": "campaign:darcula misp:sms-phishing sector:telco lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
