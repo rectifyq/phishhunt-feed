@@ -1,5 +1,5 @@
 {
- "generated_at": 1793966410,
+ "generated_at": 1793970011,
  "tlp": "tlp:clear",
  "count": 772,
  "rows": [
@@ -10570,7 +10570,7 @@
    "registrable_domain_defanged": "program-bantuan2-bingkas[.]pages[.]dev",
    "first_seen": 1791903596,
    "last_seen": 1791903596,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Sand Government Service",
    "target_sector": "gov",
    "vector": "whatsapp",
@@ -10578,8 +10578,8 @@
    "registrar": "",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1793966578,
+   "hours_to_takedown": 573.1,
    "tags_fixed": "lure:subsidy misp:persuasion-distraction misp:sector-government misp:persuasion-authority misp:persuasion-commitment lure:tax-refund misp:bulk-phishing hosting:free-host misp:attack-t1566-003 misp:fake-website",
    "tlp": "tlp:clear"
   },
