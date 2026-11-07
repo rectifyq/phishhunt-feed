@@ -1,5 +1,5 @@
 {
- "generated_at": 1794074410,
+ "generated_at": 1794078011,
  "tlp": "tlp:clear",
  "count": 759,
  "rows": [
@@ -290,7 +290,7 @@
    "registrable_domain_defanged": "ak-pmn[.]org",
    "first_seen": 1793705214,
    "last_seen": 1793705214,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "whatsapp",
@@ -298,8 +298,8 @@
    "registrar": "CV. Jogjacamp (IANA 1478)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1794074421,
+   "hours_to_takedown": 102.6,
    "tags_fixed": "vector:whatsapp",
    "tlp": "tlp:clear"
   },
