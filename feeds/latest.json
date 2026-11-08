@@ -1,7 +1,7 @@
 {
- "generated_at": 1794142811,
+ "generated_at": 1794146411,
  "tlp": "tlp:clear",
- "count": 755,
+ "count": 754,
  "rows": [
   {
    "case_id": "PH-2026-01027",
@@ -14481,26 +14481,6 @@
    "taken_down_at": 1793405041,
    "hours_to_takedown": 513.8,
    "tags_fixed": "lure:job-offer misp:sector-government",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00021",
-   "url_defanged": "hxxps://reward5[.]mobilegrub20[.]my[.]id/",
-   "url_sha256": "c9d5d49a7f22ab98031cacf2cb8ffad320e41cab0d9518cf69a194b151ebe2ee",
-   "registrable_domain_defanged": "mobilegrub20[.]my[.]id",
-   "first_seen": 1791552539,
-   "last_seen": 1791552539,
-   "state": "enriched",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "qr",
-   "kit_family": "",
-   "registrar": "PT JC Indonesia (IANA 1)",
-   "asn": "AS141892",
-   "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "misp:fake-website lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
