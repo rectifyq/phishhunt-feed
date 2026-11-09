@@ -1,7 +1,7 @@
 {
- "generated_at": 1794240912,
+ "generated_at": 1794243611,
  "tlp": "tlp:clear",
- "count": 747,
+ "count": 746,
  "rows": [
   {
    "case_id": "PH-2026-01027",
@@ -14301,26 +14301,6 @@
    "taken_down_at": 1791849731,
    "hours_to_takedown": 43.3,
    "tags_fixed": "misp:fake-website",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00029",
-   "url_defanged": "hxxps://kongsi[.]apptng[.]xyz/Rayamacam2.my15",
-   "url_sha256": "6093e6a411a7fdb86825241045ad172158a1f066ca2348319cf6cddef62fe4cf",
-   "registrable_domain_defanged": "apptng[.]xyz",
-   "first_seen": 1791651563,
-   "last_seen": 1791651563,
-   "state": "down",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "other",
-   "kit_family": "",
-   "registrar": "",
-   "asn": "AS13335",
-   "country": "",
-   "taken_down_at": 1792065712,
-   "hours_to_takedown": 115,
-   "tags_fixed": "lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
