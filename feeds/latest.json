@@ -1,7 +1,7 @@
 {
- "generated_at": 1794214810,
+ "generated_at": 1794218411,
  "tlp": "tlp:clear",
- "count": 752,
+ "count": 749,
  "rows": [
   {
    "case_id": "PH-2026-01027",
@@ -14384,46 +14384,6 @@
    "tlp": "tlp:clear"
   },
   {
-   "case_id": "PH-2026-00026",
-   "url_defanged": "hxxps://exet[.]site/tngdigital-arckls",
-   "url_sha256": "3b1d323c1e1586ec8b1dcbeab425667f5b3e445711a012d34c86218a18dfe334",
-   "registrable_domain_defanged": "exet[.]site",
-   "first_seen": 1791623733,
-   "last_seen": 1791623733,
-   "state": "down",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "qr",
-   "kit_family": "",
-   "registrar": "HOSTINGER operations, UAB (IANA 1636)",
-   "asn": "AS47583",
-   "country": "DE",
-   "taken_down_at": 1791647459,
-   "hours_to_takedown": 6.6,
-   "tags_fixed": "lure:reward-claim",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00025",
-   "url_defanged": "hxxps://qxxdaft[.]it[.]com/moneypacket0",
-   "url_sha256": "d60af17c84e5e4f2035f5cc038cbde5d15d12325d9f1e67ca1a99fd4c46bf3a7",
-   "registrable_domain_defanged": "it[.]com",
-   "first_seen": 1791623533,
-   "last_seen": 1791623533,
-   "state": "down",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "qr",
-   "kit_family": "",
-   "registrar": "Intis Telecom Limited (IANA 4030)",
-   "asn": "AS13335",
-   "country": "",
-   "taken_down_at": 1792324948,
-   "hours_to_takedown": 194.8,
-   "tags_fixed": "lure:reward-claim",
-   "tlp": "tlp:clear"
-  },
-  {
    "case_id": "PH-2026-00022",
    "url_defanged": "hxxps://buatpermohonansekarang[.]mohon-sekarang[.]com/",
    "url_sha256": "ce34a8b4b1fbfd201d28a02aadcfae29cf013d52e86e6de57f3af5a10e9195f7",
@@ -14681,26 +14641,6 @@
    "taken_down_at": 1793880138,
    "hours_to_takedown": 753.7,
    "tags_fixed": "lure:subsidy hosting:cdn-fronted misp:sector-government misp:fake-website",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00010",
-   "url_defanged": "hxxps://bantuan-tng[.]my-apy[.]com/app?utm_campaign=brand_awareness_2026&utm_creative_format=mobile_interstitial&device=desktop&gclid=GL_7eaf4dc5a71f9c77627e7e50&variant_id=B&utm_source_platform=manual_gen&lang=id&utm_content=video_short&utm_term=beli_sekarang_diskon&utm_id=CAMP_823&session_id=uje4e7def537cb",
-   "url_sha256": "56c432fca00fad45dc55d33faca93f147c7fb00c028ae1810a62bc45fc447293",
-   "registrable_domain_defanged": "my-apy[.]com",
-   "first_seen": 1791623830,
-   "last_seen": 1792292236,
-   "state": "down",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "qr",
-   "kit_family": "",
-   "registrar": "Spaceship, Inc. (IANA 3862)",
-   "asn": "AS13335",
-   "country": "",
-   "taken_down_at": 1793620920,
-   "hours_to_takedown": 682.8,
-   "tags_fixed": "lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
