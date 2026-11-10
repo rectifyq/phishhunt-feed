@@ -1,7 +1,7 @@
 {
- "generated_at": 1794283210,
+ "generated_at": 1794286811,
  "tlp": "tlp:clear",
- "count": 746,
+ "count": 744,
  "rows": [
   {
    "case_id": "PH-2026-01027",
@@ -14284,26 +14284,6 @@
    "tlp": "tlp:clear"
   },
   {
-   "case_id": "PH-2026-00031",
-   "url_defanged": "hxxps://eksemi[.]site/Vip_tudungViral73",
-   "url_sha256": "85e923dc637045b555c7cb26177e4e43aa2cabf5921bf633c5ccbed9c3c969e5",
-   "registrable_domain_defanged": "eksemi[.]site",
-   "first_seen": 1791694013,
-   "last_seen": 1791694013,
-   "state": "down",
-   "target_alias": "Amber Platform",
-   "target_sector": "other",
-   "vector": "telegram",
-   "kit_family": "",
-   "registrar": "HOSTINGER operations, UAB (IANA 1636)",
-   "asn": "AS47583",
-   "country": "LT",
-   "taken_down_at": 1791849731,
-   "hours_to_takedown": 43.3,
-   "tags_fixed": "misp:fake-website",
-   "tlp": "tlp:clear"
-  },
-  {
    "case_id": "PH-2026-00029",
    "url_defanged": "hxxps://kongsi[.]apptng[.]xyz/Rayamacam2.my11",
    "url_sha256": "6fcd450e9f1b1c19ae9afffc31f0d969b0b5143ce25c75228cf0119aad3ab36e",
@@ -14581,26 +14561,6 @@
    "taken_down_at": 1793880138,
    "hours_to_takedown": 753.7,
    "tags_fixed": "lure:subsidy hosting:cdn-fronted misp:sector-government misp:fake-website",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00010",
-   "url_defanged": "hxxps://bantuan-tng[.]my-apy[.]com/gov?utm_campaign=brand_awareness_2026&utm_creative_format=mobile_interstitial&device=desktop&gclid=GL_a42cd9f23df7f832d148313b&variant_id=B&utm_source_platform=manual_gen&lang=id&utm_content=video_short&utm_term=beli_sekarang_diskon&utm_id=CAMP_823&session_id=uj246c978e0112",
-   "url_sha256": "d3b582984e5783944eb215406e527b02beb0580b44e6f52f643c5e1ab948c5cc",
-   "registrable_domain_defanged": "my-apy[.]com",
-   "first_seen": 1791694659,
-   "last_seen": 1792292236,
-   "state": "down",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "telegram",
-   "kit_family": "",
-   "registrar": "Spaceship, Inc. (IANA 3862)",
-   "asn": "AS13335",
-   "country": "",
-   "taken_down_at": 1793620920,
-   "hours_to_takedown": 682.8,
-   "tags_fixed": "lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
