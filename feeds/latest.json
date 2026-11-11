@@ -1,7 +1,7 @@
 {
- "generated_at": 1794362411,
+ "generated_at": 1794366011,
  "tlp": "tlp:clear",
- "count": 741,
+ "count": 739,
  "rows": [
   {
    "case_id": "PH-2026-01027",
@@ -13961,46 +13961,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "lure:job-offer misp:sector-government misp:fake-website",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00042",
-   "url_defanged": "hxxps://pubgoshrt[.]online/MohonLaptopPercuma1",
-   "url_sha256": "813a756535856f1899eff3c96e2eddba28672be504857725eb78caa23d54e253",
-   "registrable_domain_defanged": "pubgoshrt[.]online",
-   "first_seen": 1791773929,
-   "last_seen": 1791773929,
-   "state": "down",
-   "target_alias": "Blue Government Service",
-   "target_sector": "gov",
-   "vector": "telegram",
-   "kit_family": "",
-   "registrar": "NameCheap, Inc. (IANA 1068)",
-   "asn": "AS138608",
-   "country": "SG",
-   "taken_down_at": 1791936127,
-   "hours_to_takedown": 45.1,
-   "tags_fixed": "lure:subsidy lure:reward-claim",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00041",
-   "url_defanged": "hxxps://bantuan-madani-2k26-30h[.]pages[.]dev/",
-   "url_sha256": "00d2b18aafbab28462210d3685d6e43abbcad20b92c6fd81c6266d9aa92b8119",
-   "registrable_domain_defanged": "bantuan-madani-2k26-30h[.]pages[.]dev",
-   "first_seen": 1791773558,
-   "last_seen": 1791773558,
-   "state": "down",
-   "target_alias": "Coral Government Service",
-   "target_sector": "gov",
-   "vector": "other",
-   "kit_family": "",
-   "registrar": "",
-   "asn": "AS13335",
-   "country": "",
-   "taken_down_at": 1793404997,
-   "hours_to_takedown": 453.2,
-   "tags_fixed": "lure:subsidy misp:sector-government hosting:free-host misp:fake-website",
    "tlp": "tlp:clear"
   },
   {
