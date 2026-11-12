@@ -1,5 +1,5 @@
 {
- "generated_at": 1794459611,
+ "generated_at": 1794464111,
  "tlp": "tlp:clear",
  "count": 648,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "my-ns[.]com",
    "first_seen": 1793937102,
    "last_seen": 1793937102,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
    "vector": "other",
