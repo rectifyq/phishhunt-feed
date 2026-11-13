@@ -1,7 +1,7 @@
 {
- "generated_at": 1794535210,
+ "generated_at": 1794538810,
  "tlp": "tlp:clear",
- "count": 588,
+ "count": 587,
  "rows": [
   {
    "case_id": "PH-2026-01032",
@@ -10401,26 +10401,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "evasion:fragment-key lure:reward-claim",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00155",
-   "url_defanged": "hxxps://claim-touchngo17[.]gt7jx[.]web[.]id/",
-   "url_sha256": "667725628c672ddb8296b06f8ff6571c78c62c82ee54bbdd286625c4e0541962",
-   "registrable_domain_defanged": "gt7jx[.]web[.]id",
-   "first_seen": 1791945360,
-   "last_seen": 1791945360,
-   "state": "down",
-   "target_alias": "Slate E-Wallet",
-   "target_sector": "ewallet",
-   "vector": "whatsapp",
-   "kit_family": "",
-   "registrar": "PT JC Indonesia",
-   "asn": "AS13335",
-   "country": "",
-   "taken_down_at": 1792087454,
-   "hours_to_takedown": 52.8,
-   "tags_fixed": "",
    "tlp": "tlp:clear"
   },
   {
