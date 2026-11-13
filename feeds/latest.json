@@ -1,5 +1,5 @@
 {
- "generated_at": 1794592829,
+ "generated_at": 1794596411,
  "tlp": "tlp:clear",
  "count": 485,
  "rows": [
@@ -1750,7 +1750,7 @@
    "registrable_domain_defanged": "sanmalay[.]com",
    "first_seen": 1793173567,
    "last_seen": 1793173567,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Coral Government Service",
    "target_sector": "gov",
    "vector": "other",
@@ -1758,8 +1758,8 @@
    "registrar": "OpusDNS GmbH (IANA 4340)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1794592835,
+   "hours_to_takedown": 394.2,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
