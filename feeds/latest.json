@@ -1,5 +1,5 @@
 {
- "generated_at": 1794592812,
+ "generated_at": 1794592829,
  "tlp": "tlp:clear",
  "count": 485,
  "rows": [
@@ -330,7 +330,7 @@
    "registrable_domain_defanged": "haremalay[.]com",
    "first_seen": 1793714261,
    "last_seen": 1793714261,
-   "state": "validated",
+   "state": "down",
    "target_alias": "Amber Government Service",
    "target_sector": "gov",
    "vector": "ads",
@@ -338,8 +338,8 @@
    "registrar": "HOSTINGER operations, UAB (IANA 1636)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1794592820,
+   "hours_to_takedown": 244,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
