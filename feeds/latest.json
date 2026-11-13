@@ -1,7 +1,7 @@
 {
- "generated_at": 1794560411,
+ "generated_at": 1794564011,
  "tlp": "tlp:clear",
- "count": 560,
+ "count": 558,
  "rows": [
   {
    "case_id": "PH-2026-01035",
@@ -9841,46 +9841,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "sector:gov",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00220",
-   "url_defanged": "hxxps://cimb-suppliers[.]ivalua[.]app/",
-   "url_sha256": "acd1b8a57ad4e2e4d37c18af437e85f66ee91c961ebc07ef24c9250623133679",
-   "registrable_domain_defanged": "ivalua[.]app",
-   "first_seen": 1791968990,
-   "last_seen": 1791968990,
-   "state": "reported",
-   "target_alias": "Cobalt Bank",
-   "target_sector": "banking",
-   "vector": "other",
-   "kit_family": "",
-   "registrar": "Gandi SAS (IANA 81)",
-   "asn": "AS8075",
-   "country": "SG",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00220",
-   "url_defanged": "hxxps://cimb[.]ivalua[.]app/",
-   "url_sha256": "6a13ccb3bc1a1c9649a8ba7f17c66889413031aa3e23982c226df5af34d95100",
-   "registrable_domain_defanged": "ivalua[.]app",
-   "first_seen": 1791968995,
-   "last_seen": 1791968995,
-   "state": "reported",
-   "target_alias": "Cobalt Bank",
-   "target_sector": "banking",
-   "vector": "other",
-   "kit_family": "",
-   "registrar": "Gandi SAS (IANA 81)",
-   "asn": "AS8075",
-   "country": "SG",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "",
    "tlp": "tlp:clear"
   },
   {
