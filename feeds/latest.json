@@ -1,7 +1,7 @@
 {
- "generated_at": 1794661210,
+ "generated_at": 1794664811,
  "tlp": "tlp:clear",
- "count": 350,
+ "count": 349,
  "rows": [
   {
    "case_id": "PH-2026-01035",
@@ -5761,26 +5761,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00187",
-   "url_defanged": "hxxps://moneypocket[.]my-c[.]me/links",
-   "url_sha256": "89387ab22f35af3e535f7885cdd3b3d732c976690e91c22ecd605322ba2be939",
-   "registrable_domain_defanged": "my-c[.]me",
-   "first_seen": 1792072682,
-   "last_seen": 1792072682,
-   "state": "reported",
-   "target_alias": "Cobalt Bank",
-   "target_sector": "banking",
-   "vector": "qr",
-   "kit_family": "",
-   "registrar": "",
-   "asn": "AS55688",
-   "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "evasion:fragment-key lure:reward-claim",
    "tlp": "tlp:clear"
   },
   {
