@@ -1,5 +1,5 @@
 {
- "generated_at": 1794657610,
+ "generated_at": 1794661210,
  "tlp": "tlp:clear",
  "count": 350,
  "rows": [
@@ -310,7 +310,7 @@
    "registrable_domain_defanged": "govvsir[.]com",
    "first_seen": 1793714870,
    "last_seen": 1793714870,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
@@ -318,8 +318,8 @@
    "registrar": "HOSTINGER operations, UAB (IANA 1636)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1794657687,
+   "hours_to_takedown": 261.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
