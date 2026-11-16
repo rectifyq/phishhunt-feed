@@ -1,5 +1,7 @@
 case_id,url_defanged,url_sha256,registrable_domain_defanged,first_seen,last_seen,state,target_alias,target_sector,vector,kit_family,registrar,asn,country,taken_down_at,hours_to_takedown,tags_fixed,tlp
 PH-2026-01040,hxxps://maxis-mynet[.]my[.]id/max,240eae903dbfe4f6207d3879cf394e8bc20c09cc9a30ab043b60b6bf93ddcf7b,maxis-mynet[.]my[.]id,1794491633,1794491633,validated,,,other,,PT Jagoan Hosting Indonesia (IANA 1),AS13335,,,,,tlp:clear
+PH-2026-01038,hxxps://running-malaysia[.]ap-er[.]com/5,1fd58bd7efa2855eca39eb1e532cb5e8896f21f12d2f227f4b53c841d17de5e4,ap-er[.]com,1794486370,1794797632,validated,,,qr,,"Spaceship, Inc. (IANA 3862)",AS13335,,,,,tlp:clear
+PH-2026-01038,hxxps://running-malaysia[.]ap-er[.]com/app1,dc2d4c6304a5fc79b18725d75feeb35e07ad534e5d1c49b72b0735bf517662bc,ap-er[.]com,1794510547,1794797632,validated,,,qr,,"Spaceship, Inc. (IANA 3862)",AS13335,,,,,tlp:clear
 PH-2026-01037,hxxps://reward[.]tng-qr[.]it[.]com/b,930d1702cdac443dcd7609d7915e7d4f37d61a8111c369f6f780e5551185e22d,tng-qr[.]it[.]com,1794485339,1794485339,validated,Slate E-Wallet,ewallet,qr,,,AS13335,,,,,tlp:clear
 PH-2026-01035,hxxps://register-new[.]npt-my[.]com/,79dc6d4d956a733c8131aa2bc3341f2464b0466bbd2f25b00239232e15161317,npt-my[.]com,1794484019,1794484019,down,,,qr,,"NameSilo, LLC (IANA 1479)",AS13335,,1794578701,26.3,,tlp:clear
 PH-2026-01034,hxxps://register-now[.]join-tr-4p1[.]com/,4ac9e43a8ae33b75a87a0b40a3594fb7b9b27a30ce273547ae80ec6c39a5e966,join-tr-4p1[.]com,1794483135,1794483135,validated,,,ads,,CV. Rumahweb Indonesia (IANA 1675),AS13335,,,,,tlp:clear
