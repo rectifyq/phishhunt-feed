@@ -1,7 +1,7 @@
 {
- "generated_at": 1794794410,
+ "generated_at": 1794798011,
  "tlp": "tlp:clear",
- "count": 327,
+ "count": 328,
  "rows": [
   {
    "case_id": "PH-2026-01035",
@@ -1890,6 +1890,26 @@
    "registrable_domain_defanged": "publicregister[.]online",
    "first_seen": 1794485872,
    "last_seen": 1794485872,
+   "state": "validated",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "NameCheap, Inc. (IANA 1068)",
+   "asn": "AS136052",
+   "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "evasion:fragment-key",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00949",
+   "url_defanged": "hxxps://publicregister[.]online/MoneyPocket6",
+   "url_sha256": "c7bda83ace0e0d7f02363799b5062d23b3368a61e5559b512cd6d652321b5b03",
+   "registrable_domain_defanged": "publicregister[.]online",
+   "first_seen": 1794796530,
+   "last_seen": 1794796530,
    "state": "validated",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
