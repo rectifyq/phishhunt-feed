@@ -1,7 +1,7 @@
 {
- "generated_at": 1794834011,
+ "generated_at": 1794837611,
  "tlp": "tlp:clear",
- "count": 333,
+ "count": 334,
  "rows": [
   {
    "case_id": "PH-2026-01040",
@@ -6350,6 +6350,26 @@
    "registrable_domain_defanged": "m-oil[.]cyou",
    "first_seen": 1794485802,
    "last_seen": 1794485802,
+   "state": "enriched",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "Spaceship, Inc.",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00024",
+   "url_defanged": "hxxps://m-oil[.]cyou/moneypocket58?utm_source=w0m0bkal59kg&utm_medium=pvzfg5pg&utm_campaign=sl5h69rd05ch2on&utm_content=s5of349ytu&utm_term=v8kr5taa5n",
+   "url_sha256": "683d5ba56198398011fa2739ee46e0f1ce17adec0ec1243089447e20e74e0261",
+   "registrable_domain_defanged": "m-oil[.]cyou",
+   "first_seen": 1794838033,
+   "last_seen": 1794838033,
    "state": "enriched",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
