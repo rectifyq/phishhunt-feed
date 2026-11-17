@@ -1,5 +1,5 @@
 {
- "generated_at": 1794916811,
+ "generated_at": 1794920411,
  "tlp": "tlp:clear",
  "count": 338,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "my-ns[.]com",
    "first_seen": 1794882944,
    "last_seen": 1794882999,
-   "state": "validated",
+   "state": "reported",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
