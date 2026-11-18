@@ -1,7 +1,7 @@
 {
- "generated_at": 1794985211,
+ "generated_at": 1794988811,
  "tlp": "tlp:clear",
- "count": 330,
+ "count": 331,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -18,6 +18,26 @@
    "registrar": "NameSilo, LLC (IANA 1479)",
    "asn": "",
    "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-01046",
+   "url_defanged": "hxxps://claimandredeempoin[.]wixsite[.]com/my-site-1",
+   "url_sha256": "ef316a392cdb10fd1242d40c24d5e98d639e2029b1a87e8bb0b6e2e5d76a683c",
+   "registrable_domain_defanged": "claimandredeempoin[.]wixsite[.]com",
+   "first_seen": 1794906269,
+   "last_seen": 1794906269,
+   "state": "validated",
+   "target_alias": "Indigo Telco",
+   "target_sector": "telco",
+   "vector": "search",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS13335",
+   "country": "US",
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
