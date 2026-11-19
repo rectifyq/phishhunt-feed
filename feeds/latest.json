@@ -1,5 +1,5 @@
 {
- "generated_at": 1795111211,
+ "generated_at": 1795111230,
  "tlp": "tlp:clear",
  "count": 247,
  "rows": [
@@ -90,7 +90,7 @@
    "registrable_domain_defanged": "malaysiawebs1[.]com",
    "first_seen": 1794509888,
    "last_seen": 1794509888,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
@@ -98,8 +98,8 @@
    "registrar": "Web Commerce Communications Limited dba WebNic.cc (IANA 460)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1795111219,
+   "hours_to_takedown": 167,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
@@ -110,7 +110,7 @@
    "registrable_domain_defanged": "malaysiawebs1[.]com",
    "first_seen": 1794510108,
    "last_seen": 1794510108,
-   "state": "validated",
+   "state": "down",
    "target_alias": "",
    "target_sector": "",
    "vector": "qr",
@@ -118,8 +118,8 @@
    "registrar": "Web Commerce Communications Limited dba WebNic.cc (IANA 460)",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1795111219,
+   "hours_to_takedown": 167,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
