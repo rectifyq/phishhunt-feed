@@ -1,7 +1,7 @@
 {
- "generated_at": 1795100411,
+ "generated_at": 1795104010,
  "tlp": "tlp:clear",
- "count": 256,
+ "count": 255,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -4040,26 +4040,6 @@
    "country": "",
    "taken_down_at": 1793013092,
    "hours_to_takedown": 139,
-   "tags_fixed": "",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00832",
-   "url_defanged": "hxxps://info-madani[.]str[.]webs[.]nf/semak",
-   "url_sha256": "0fe1bd3766385426f47bed9cae5e7c8023d9ac4dad49e080ec2cdad493baea2b",
-   "registrable_domain_defanged": "webs[.]nf",
-   "first_seen": 1792511986,
-   "last_seen": 1792511986,
-   "state": "down",
-   "target_alias": "",
-   "target_sector": "",
-   "vector": "other",
-   "kit_family": "",
-   "registrar": "Key-Systems GmbH (IANA 269)",
-   "asn": "",
-   "country": "",
-   "taken_down_at": 1793013145,
-   "hours_to_takedown": 139.2,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
