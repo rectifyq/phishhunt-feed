@@ -1,7 +1,7 @@
 {
- "generated_at": 1795050010,
+ "generated_at": 1795053611,
  "tlp": "tlp:clear",
- "count": 259,
+ "count": 260,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -1290,6 +1290,26 @@
    "registrable_domain_defanged": "nt-rty[.]com",
    "first_seen": 1794157607,
    "last_seen": 1794157607,
+   "state": "reported",
+   "target_alias": "Slate E-Wallet",
+   "target_sector": "ewallet",
+   "vector": "qr",
+   "kit_family": "",
+   "registrar": "Spaceship, Inc. (IANA 3862)",
+   "asn": "AS13335",
+   "country": "",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "lure:reward-claim",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-00986",
+   "url_defanged": "hxxps://bantuan-tng[.]nt-rty[.]com/tr?utm_campaign=brand_awareness_2026&utm_creative_format=mobile_interstitial&device=desktop&gclid=GL_d1cc491cda2b2d754c649a03&variant_id=B&utm_source_platform=manual_gen&lang=id&utm_content=video_short&utm_term=beli_sekarang_diskon&utm_id=CAMP_823&session_id=uj50796fda4fbd",
+   "url_sha256": "9be8cc4dd0f6c275296aa4a954fbc0a2e563bc91fbc46d9c9b80d81b3eae90ce",
+   "registrable_domain_defanged": "nt-rty[.]com",
+   "first_seen": 1795052929,
+   "last_seen": 1795052929,
    "state": "reported",
    "target_alias": "Slate E-Wallet",
    "target_sector": "ewallet",
