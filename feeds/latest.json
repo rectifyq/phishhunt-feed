@@ -1,7 +1,7 @@
 {
- "generated_at": 1795176011,
+ "generated_at": 1795179610,
  "tlp": "tlp:clear",
- "count": 246,
+ "count": 245,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -3920,26 +3920,6 @@
    "country": "SG",
    "taken_down_at": "",
    "hours_to_takedown": "",
-   "tags_fixed": "campaign:darcula",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00876",
-   "url_defanged": "hxxps://sara[.]mykadc[.]com/my",
-   "url_sha256": "662409fdab5a63957b87a392f6df647ff96c2f804825bd1009bf1db0fda1dfc4",
-   "registrable_domain_defanged": "mykadc[.]com",
-   "first_seen": 1792586938,
-   "last_seen": 1792586938,
-   "state": "down",
-   "target_alias": "",
-   "target_sector": "",
-   "vector": "sms",
-   "kit_family": "",
-   "registrar": "",
-   "asn": "",
-   "country": "",
-   "taken_down_at": 1794139411,
-   "hours_to_takedown": 431.2,
    "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
