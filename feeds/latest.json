@@ -1,5 +1,5 @@
 {
- "generated_at": 1795204811,
+ "generated_at": 1795215611,
  "tlp": "tlp:clear",
  "count": 245,
  "rows": [
@@ -150,7 +150,7 @@
    "registrable_domain_defanged": "maxis-mynet[.]my[.]id",
    "first_seen": 1794491633,
    "last_seen": 1794491633,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "",
    "target_sector": "",
    "vector": "other",
