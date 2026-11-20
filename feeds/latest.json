@@ -1,7 +1,7 @@
 {
- "generated_at": 1795154411,
+ "generated_at": 1795158011,
  "tlp": "tlp:clear",
- "count": 246,
+ "count": 247,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -61,6 +61,26 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "evasion:fragment-key",
+   "tlp": "tlp:clear"
+  },
+  {
+   "case_id": "PH-2026-01043",
+   "url_defanged": "hxxps://goldenentry[.]my/public/index.php?r=login",
+   "url_sha256": "63a6c19785ae7d70be2cc1dfdabae39eafcc23789878a1926a78ed1d3e36cf11",
+   "registrable_domain_defanged": "goldenentry[.]my",
+   "first_seen": 1794815968,
+   "last_seen": 1794815968,
+   "state": "validated",
+   "target_alias": "",
+   "target_sector": "",
+   "vector": "",
+   "kit_family": "",
+   "registrar": "",
+   "asn": "AS199695",
+   "country": "ID",
+   "taken_down_at": "",
+   "hours_to_takedown": "",
+   "tags_fixed": "",
    "tlp": "tlp:clear"
   },
   {
