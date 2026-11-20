@@ -1,7 +1,7 @@
 {
- "generated_at": 1795136411,
+ "generated_at": 1795140011,
  "tlp": "tlp:clear",
- "count": 247,
+ "count": 246,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -3961,26 +3961,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "lure:job-offer",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00859",
-   "url_defanged": "hxxps://bantuan-ewallet-tng-my65mo[.]ask88sx[.]my[.]id/",
-   "url_sha256": "981e1ef437b6880e4153193a58b3c87e7f171f7137eece96b3dbc8a6ec1ac7aa",
-   "registrable_domain_defanged": "ask88sx[.]my[.]id",
-   "first_seen": 1792545873,
-   "last_seen": 1792545873,
-   "state": "reported",
-   "target_alias": "",
-   "target_sector": "",
-   "vector": "",
-   "kit_family": "",
-   "registrar": "PT Digital Registra Indonesia (IANA 1)",
-   "asn": "AS58487",
-   "country": "ID",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "",
    "tlp": "tlp:clear"
   },
   {
