@@ -1,5 +1,5 @@
 {
- "generated_at": 1795305611,
+ "generated_at": 1795309211,
  "tlp": "tlp:clear",
  "count": 242,
  "rows": [
@@ -3970,7 +3970,7 @@
    "registrable_domain_defanged": "nty-my[.]com",
    "first_seen": 1794577750,
    "last_seen": 1794577750,
-   "state": "reported",
+   "state": "down",
    "target_alias": "",
    "target_sector": "gov",
    "vector": "whatsapp",
@@ -3978,8 +3978,8 @@
    "registrar": "Spaceship, Inc.",
    "asn": "AS13335",
    "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
+   "taken_down_at": 1795305813,
+   "hours_to_takedown": 929.9,
    "tags_fixed": "",
    "tlp": "tlp:clear"
   },
