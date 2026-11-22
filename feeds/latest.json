@@ -1,5 +1,5 @@
 {
- "generated_at": 1795384810,
+ "generated_at": 1795388411,
  "tlp": "tlp:clear",
  "count": 188,
  "rows": [
@@ -70,7 +70,7 @@
    "registrable_domain_defanged": "goldenentry[.]my",
    "first_seen": 1794815968,
    "last_seen": 1794815968,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "",
    "target_sector": "",
    "vector": "",
