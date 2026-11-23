@@ -1,7 +1,7 @@
 {
- "generated_at": 1795453211,
+ "generated_at": 1795454141,
  "tlp": "tlp:clear",
- "count": 171,
+ "count": 170,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -3137,26 +3137,6 @@
    "kit_family": "",
    "registrar": "Spaceship, Inc. (IANA 3862)",
    "asn": "AS13335",
-   "country": "",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "lure:job-offer",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00060",
-   "url_defanged": "hxxps://jawatan-terkini[.]aply-n1[.]com/nt",
-   "url_sha256": "aca25a46ea285c96d142294e7183d6cabfa3793f717637ec708ebaab92524cfb",
-   "registrable_domain_defanged": "aply-n1[.]com",
-   "first_seen": 1792861397,
-   "last_seen": 1793273121,
-   "state": "reported",
-   "target_alias": "Sand Government Service",
-   "target_sector": "gov",
-   "vector": "qr",
-   "kit_family": "",
-   "registrar": "Spaceship, Inc. (IANA 3862)",
-   "asn": "",
    "country": "",
    "taken_down_at": "",
    "hours_to_takedown": "",
