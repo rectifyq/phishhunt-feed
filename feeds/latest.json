@@ -1,7 +1,7 @@
 {
- "generated_at": 1795600810,
+ "generated_at": 1795604411,
  "tlp": "tlp:clear",
- "count": 166,
+ "count": 165,
  "rows": [
   {
    "case_id": "PH-2026-01047",
@@ -2501,26 +2501,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00945",
-   "url_defanged": "hxxps://maybanku2u[.]maybeuv[.]com/3vn6av",
-   "url_sha256": "92315e80442be6e28efafac48296ef789c176b6420f2bc43bdbe9e781c9f11cb",
-   "registrable_domain_defanged": "maybeuv[.]com",
-   "first_seen": 1793010269,
-   "last_seen": 1793010269,
-   "state": "enriched",
-   "target_alias": "Plum Bank",
-   "target_sector": "banking",
-   "vector": "sms",
-   "kit_family": "",
-   "registrar": "Dominet (HK) Limited (IANA 3775)",
-   "asn": "AS45102",
-   "country": "SG",
-   "taken_down_at": "",
-   "hours_to_takedown": "",
-   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
