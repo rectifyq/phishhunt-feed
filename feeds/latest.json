@@ -1,7 +1,7 @@
 {
- "generated_at": 1795780810,
+ "generated_at": 1795784410,
  "tlp": "tlp:clear",
- "count": 136,
+ "count": 135,
  "rows": [
   {
    "case_id": "PH-2026-01050",
@@ -1701,26 +1701,6 @@
    "taken_down_at": "",
    "hours_to_takedown": "",
    "tags_fixed": "",
-   "tlp": "tlp:clear"
-  },
-  {
-   "case_id": "PH-2026-00974",
-   "url_defanged": "hxxps://pdrm[.]amcardmy[.]com/w6qado",
-   "url_sha256": "3e29e2cd13d02921f2fd065fe6b3810ed3c2c8e532e04b073d189c05b5ca519b",
-   "registrable_domain_defanged": "amcardmy[.]com",
-   "first_seen": 1793189579,
-   "last_seen": 1793714117,
-   "state": "down",
-   "target_alias": "Amber Government Service",
-   "target_sector": "gov",
-   "vector": "sms",
-   "kit_family": "",
-   "registrar": "Dominet (HK) Limited (IANA 3775)",
-   "asn": "AS45102",
-   "country": "SG",
-   "taken_down_at": 1795003322,
-   "hours_to_takedown": 503.8,
-   "tags_fixed": "campaign:darcula",
    "tlp": "tlp:clear"
   },
   {
