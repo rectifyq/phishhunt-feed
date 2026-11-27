@@ -1,5 +1,5 @@
 {
- "generated_at": 1795741211,
+ "generated_at": 1795744810,
  "tlp": "tlp:clear",
  "count": 157,
  "rows": [
@@ -10,7 +10,7 @@
    "registrable_domain_defanged": "lice[.]web[.]id",
    "first_seen": 1795703437,
    "last_seen": 1795703437,
-   "state": "validated",
+   "state": "enriched",
    "target_alias": "Amber Government Service",
    "target_sector": "gov",
    "vector": "telegram",
